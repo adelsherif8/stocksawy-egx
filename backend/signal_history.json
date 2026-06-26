@@ -1,0 +1,1814 @@
+[
+  {
+    "id": "5551e289-347d-49ee-9222-242725f2d507",
+    "signal_key": "EGTS_BUY_2026-04-14",
+    "ticker": "EGTS",
+    "name": "Egyptian Tourism Resorts",
+    "sector": "Tourism & Hospitality",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "A positive geopolitical climate can enhance tourism, benefiting companies in this sector.",
+    "news_titles": [
+      "\u00abEGX30\u00bb \u064a\u0637\u0631\u0642 \u0623\u0628\u0648\u0627\u0628 \u0627\u0644\u064050 \u0623\u0644\u0641 \u0646\u0642\u0637\u0629.. \u0648\u201d\u0631\u064a\u0627\u062d \u0627\u0644\u0645\u0641\u0627\u0648\u0636\u0627\u062a\u201d \u062a\u064f\u0646\u0639\u0634 \u0634\u0647\u064a\u0629 \u0627\u0644\u0645\u062e\u0627\u0637\u0631",
+      "Higher oil prices, regional uncertainty weigh on Egypt\u2019s 2026 investment outlook: IMF - Economy - Business - Ahram Online"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": 7.65,
+    "price_24h": 9.18,
+    "price_48h": null,
+    "outcome": "WIN"
+  },
+  {
+    "id": "d9fb7eaf-b9ac-4f01-a568-3164a2cb0843",
+    "signal_key": "COMI_BUY_2026-04-14",
+    "ticker": "COMI",
+    "name": "Commercial International Bank (CIB)",
+    "sector": "Banking & Finance",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Potential for increased FDI could benefit the banking sector in the long term.",
+    "news_titles": [
+      "\u0648\u0632\u064a\u0631 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629 \u064a\u0644\u062a\u0642\u064a \u0627\u0644\u0645\u062f\u064a\u0631 \u0627\u0644\u0645\u0646\u062a\u062f\u0628 \u0644\u0644\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0644\u0636\u0645\u0627\u0646 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u0634\u0631\u064a\u0641 \u0633\u0627\u0645\u064a \u0644\u0640\u00ab\u0625\u0631\u0645 \u0628\u0632\u0646\u0633\u00bb: \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u064a\u0642\u0627\u0648\u0645 \u062a\u062f\u0627\u0639\u064a\u0627\u062a \u062d\u0631\u0628 \u0625\u064a\u0631\u0627\u0646 - \u0625\u0631\u0645 \u0628\u0632\u0646\u0633"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": 129.4,
+    "price_24h": 133.99,
+    "price_48h": null,
+    "outcome": "WIN"
+  },
+  {
+    "id": "8c2ebcbe-25a3-4bce-a959-38369014df8b",
+    "signal_key": "TMGH_BUY_2026-04-14",
+    "ticker": "TMGH",
+    "name": "Talaat Moustafa Group",
+    "sector": "Real Estate & Construction",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Increased investor confidence may boost real estate investments and developments.",
+    "news_titles": [
+      "\u00abEGX30\u00bb \u064a\u0637\u0631\u0642 \u0623\u0628\u0648\u0627\u0628 \u0627\u0644\u064050 \u0623\u0644\u0641 \u0646\u0642\u0637\u0629.. \u0648\u201d\u0631\u064a\u0627\u062d \u0627\u0644\u0645\u0641\u0627\u0648\u0636\u0627\u062a\u201d \u062a\u064f\u0646\u0639\u0634 \u0634\u0647\u064a\u0629 \u0627\u0644\u0645\u062e\u0627\u0637\u0631",
+      "Higher oil prices, regional uncertainty weigh on Egypt\u2019s 2026 investment outlook: IMF - Economy - Business - Ahram Online"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": 84.99,
+    "price_24h": 85.5,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "7b105316-232f-43b6-a9b9-9779fb901d4e",
+    "signal_key": "EMFD_BUY_2026-04-14",
+    "ticker": "EMFD",
+    "name": "Emaar Misr",
+    "sector": "Real Estate & Construction",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "While Emaar Misr may not be directly implicated, the overall sentiment in the real estate sector could affect its stock performance.",
+    "news_titles": [
+      "\u201c\u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0625\u062f\u0627\u0631\u064a\u0629\u201d \u062a\u062d\u0630\u0631 \u0645\u0646 \u0625\u0639\u0644\u0627\u0646\u0627\u062a \u0645\u0636\u0644\u0644\u0629 \u0644\u0645\u0634\u0631\u0648\u0639\u0627\u062a \u0648\u0647\u0645\u064a\u0629",
+      "\u0648\u0632\u064a\u0631 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629 \u064a\u0644\u062a\u0642\u064a \u0627\u0644\u0645\u062f\u064a\u0631 \u0627\u0644\u0645\u0646\u062a\u062f\u0628 \u0644\u0644\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0644\u0636\u0645\u0627\u0646 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": 9.27,
+    "price_24h": 9.35,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "03c5dae5-02f3-442b-b649-7f9780baa9f8",
+    "signal_key": "AMOC_SELL_2026-04-14",
+    "ticker": "AMOC",
+    "name": "Alexandria Mineral Oils Company",
+    "sector": "Oil & Gas",
+    "action": "SELL",
+    "confidence": "HIGH",
+    "reason": "Improved geopolitical stability may lead to a rise in oil prices, benefiting oil companies.",
+    "news_titles": [
+      "\u00abEGX30\u00bb \u064a\u0637\u0631\u0642 \u0623\u0628\u0648\u0627\u0628 \u0627\u0644\u064050 \u0623\u0644\u0641 \u0646\u0642\u0637\u0629.. \u0648\u201d\u0631\u064a\u0627\u062d \u0627\u0644\u0645\u0641\u0627\u0648\u0636\u0627\u062a\u201d \u062a\u064f\u0646\u0639\u0634 \u0634\u0647\u064a\u0629 \u0627\u0644\u0645\u062e\u0627\u0637\u0631",
+      "Higher oil prices, regional uncertainty weigh on Egypt\u2019s 2026 investment outlook: IMF - Economy - Business - Ahram Online"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": 8.23,
+    "price_24h": 8.25,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "6f148b3e-0002-42fc-ac23-d88d05c7b96f",
+    "signal_key": "SWDY_SELL_2026-04-14",
+    "ticker": "SWDY",
+    "name": "El Sewedy Electric",
+    "sector": "Steel & Manufacturing",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "Increased oil prices will raise transportation and production costs, impacting profitability.",
+    "news_titles": [
+      "Higher oil prices, regional uncertainty weigh on Egypt\u2019s 2026 investment outlook: IMF - Economy - Business - Ahram Online",
+      "\u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0645\u0631\u0643\u0632\u0649 \u0627\u0644\u0645\u0635\u0631\u0649.. 52.44 \u062c\u0646\u064a\u0647 \u0644\u0644\u0634\u0631\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": 81.39,
+    "price_24h": 81.45,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "82919983-800e-4231-a91b-4facd178b1a0",
+    "signal_key": "SCFN_WATCH_2026-04-14",
+    "ticker": "SCFN",
+    "name": "Suez Canal Bank",
+    "sector": "Suez Canal & Logistics",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Increased trade activity due to improved geopolitical relations may positively impact logistics and banking sectors.",
+    "news_titles": [
+      "\u00abEGX30\u00bb \u064a\u0637\u0631\u0642 \u0623\u0628\u0648\u0627\u0628 \u0627\u0644\u064050 \u0623\u0644\u0641 \u0646\u0642\u0637\u0629.. \u0648\u201d\u0631\u064a\u0627\u062d \u0627\u0644\u0645\u0641\u0627\u0648\u0636\u0627\u062a\u201d \u062a\u064f\u0646\u0639\u0634 \u0634\u0647\u064a\u0629 \u0627\u0644\u0645\u062e\u0627\u0637\u0631",
+      "\u0627\u0631\u062a\u0641\u0627\u0639 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0629 \u0639\u0646\u062f \u0627\u0644\u0625\u063a\u0644\u0627\u0642 \u0645\u0639 \u0645\u062a\u0627\u0628\u0639\u0629 \u0627\u0644\u062a\u0637\u0648\u0631\u0627\u062a \u0627\u0644\u062c\u064a\u0648\u0633\u064a\u0627\u0633\u064a\u0629"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "a800cd82-f9a8-4754-aa86-0d2309ca384a",
+    "signal_key": "CENT_BUY_2026-04-14",
+    "ticker": "CENT",
+    "name": "Centamin Egypt (Gold)",
+    "sector": "Mining & Metals",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "Higher gold prices directly enhance revenue potential for gold mining companies.",
+    "news_titles": [
+      "\u0627\u0644\u0630\u0647\u0628 \u064a\u0639\u0632\u0632 \u0645\u0643\u0627\u0633\u0628\u0647 \u0648\u064a\u062a\u062f\u0627\u0648\u0644 \u0623\u0639\u0644\u0649 4800 \u062f\u0648\u0644\u0627\u0631",
+      "Gold and silver rise as weaker dollar and oil ease inflation fears - MSN"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "f170a493-4d34-401c-bd12-241e88530aa8",
+    "signal_key": "ADIB_BUY_2026-04-14",
+    "ticker": "ADIB",
+    "name": "Abu Dhabi Islamic Bank Egypt",
+    "sector": "Banking & Finance",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Lower import costs can improve loan performance and consumer spending, benefiting banks.",
+    "news_titles": [
+      "\u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0628\u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 14 \u0623\u0628\u0631\u064a\u0644 2026 - \u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0623\u0647\u0631\u0627\u0645",
+      "\u0628\u0641\u0627\u0626\u062f\u0629 19.5%.. \u00ab\u0627\u0644\u0645\u0631\u0643\u0632\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u00bb \u064a\u0633\u062d\u0628 1.6 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u0645\u0646 5 \u0628\u0646\u0648\u0643 - \u0625\u0631\u0645 \u0628\u0632\u0646\u0633"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": 43.55,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "16fe5ba4-8923-436e-a549-d4f13a35876c",
+    "signal_key": "FWRY_WATCH_2026-04-14",
+    "ticker": "FWRY",
+    "name": "Fawry Banking Technology",
+    "sector": "Banking & Finance",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "While Fawry may benefit from overall banking sector growth, its performance is also tied to technological adoption rates.",
+    "news_titles": [
+      "\u0627\u0644\u0645\u0624\u0634\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a \u0644\u0644\u0628\u0648\u0631\u0635\u0629 \u064a\u0642\u062a\u0631\u0628 \u0645\u0646 50 \u0623\u0644\u0641 \u0646\u0642\u0637\u0629 \u0628\u0646\u0647\u0627\u064a\u0629 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 - Masrawy",
+      "\"\u0643\u0627\u064a\u0631\u0648 \u0643\u0627\u0628\u064a\u062a\u0627\u0644\": \u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0627\u062a\u062c\u0627\u0647 \u0627\u0644\u0635\u0627\u0639\u062f \u0648\u0645\u0633\u062a\u0647\u062f\u0641\u0627\u062a \u062c\u062f\u064a\u062f\u0629 \u0644\u0623\u0633\u0647\u0645 \u0642\u064a\u0627\u062f\u064a\u0629 - \u0627\u0644\u0639\u0631\u0628\u064a\u0629"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": 18.5,
+    "price_24h": 19.1,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "53db1e6b-98b0-47e9-9221-7a536027a056",
+    "signal_key": "SDPC_SELL_2026-04-14",
+    "ticker": "SDPC",
+    "name": "Sidi Kerir Petrochemicals",
+    "sector": "Oil & Gas",
+    "action": "SELL",
+    "confidence": "HIGH",
+    "reason": "Decreased oil prices can lead to lower revenues and profitability for petrochemical firms.",
+    "news_titles": [
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0646\u0641\u0637 \u062a\u0639\u0645\u0642 \u062e\u0633\u0627\u0626\u0631\u0647\u0627 \u0645\u0639 \u062a\u062c\u062f\u062f \u0622\u0645\u0627\u0644 \u0627\u0633\u062a\u0626\u0646\u0627\u0641 \u0645\u0641\u0627\u0648\u0636\u0627\u062a \u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "5ca3a397-4165-4274-b4fa-4d11c8d3d1e5",
+    "signal_key": "EGAZ_WATCH_2026-04-14",
+    "ticker": "EGAZ",
+    "name": "Egyptian Gas Company",
+    "sector": "Oil & Gas",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "While gas prices may not drop as significantly, the overall sentiment in the oil sector could impact investor confidence.",
+    "news_titles": [
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0646\u0641\u0637 \u062a\u0639\u0645\u0642 \u062e\u0633\u0627\u0626\u0631\u0647\u0627 \u0645\u0639 \u062a\u062c\u062f\u062f \u0622\u0645\u0627\u0644 \u0627\u0633\u062a\u0626\u0646\u0627\u0641 \u0645\u0641\u0627\u0648\u0636\u0627\u062a \u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "a09772cc-019e-4e2c-886a-30100f9b753b",
+    "signal_key": "PHDC_SELL_2026-04-14",
+    "ticker": "PHDC",
+    "name": "Palm Hills Developments",
+    "sector": "Real Estate & Construction",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "The negative publicity surrounding misleading project advertisements could lead to a decline in sales and investor interest for PHDC.",
+    "news_titles": [
+      "\u201c\u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0625\u062f\u0627\u0631\u064a\u0629\u201d \u062a\u062d\u0630\u0631 \u0645\u0646 \u0625\u0639\u0644\u0627\u0646\u0627\u062a \u0645\u0636\u0644\u0644\u0629 \u0644\u0645\u0634\u0631\u0648\u0639\u0627\u062a \u0648\u0647\u0645\u064a\u0629"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": 8.43,
+    "price_24h": 8.55,
+    "price_48h": null,
+    "outcome": "LOSS"
+  },
+  {
+    "id": "d74ed7a4-9b33-488b-aa90-642754296986",
+    "signal_key": "DOMTY_SELL_2026-04-14",
+    "ticker": "DOMTY",
+    "name": "Arab Dairy Products (Domty)",
+    "sector": "Food & Beverages",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "Increased costs of imported raw materials will squeeze margins in the food sector.",
+    "news_titles": [
+      "\u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0645\u0631\u0643\u0632\u0649 \u0627\u0644\u0645\u0635\u0631\u0649.. 52.44 \u062c\u0646\u064a\u0647 \u0644\u0644\u0634\u0631\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "51aa9001-7322-4a61-9959-57a02765f6bf",
+    "signal_key": "ABUK_WATCH_2026-04-14",
+    "ticker": "ABUK",
+    "name": "Abu Qir Fertilizers",
+    "sector": "Fertilizers & Chemicals",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Higher dollar rates may affect the cost of imported inputs, but demand for fertilizers remains strong.",
+    "news_titles": [
+      "\u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0645\u0631\u0643\u0632\u0649 \u0627\u0644\u0645\u0635\u0631\u0649.. 52.44 \u062c\u0646\u064a\u0647 \u0644\u0644\u0634\u0631\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776187364.0718012,
+    "date": "2026-04-14",
+    "price_at_signal": 82.11,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "0b3750f2-dc32-4e70-8057-de431d00a885",
+    "signal_key": "QNBA_SELL_2026-04-14",
+    "ticker": "QNBA",
+    "name": "QNB Alahli Bank",
+    "sector": "Banking & Finance",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "Similar to CIB, QNB may benefit from increased economic stability, though with slightly less immediate impact.",
+    "news_titles": [
+      "\u0634\u0631\u064a\u0641 \u0633\u0627\u0645\u064a \u0644\u0640\u00ab\u0625\u0631\u0645 \u0628\u0632\u0646\u0633\u00bb: \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u064a\u0642\u0627\u0648\u0645 \u062a\u062f\u0627\u0639\u064a\u0627\u062a \u062d\u0631\u0628 \u0625\u064a\u0631\u0627\u0646 - \u0625\u0631\u0645 \u0628\u0632\u0646\u0633",
+      "\u0628\u0641\u0627\u0626\u062f\u0629 19.5%.. \u00ab\u0627\u0644\u0645\u0631\u0643\u0632\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u00bb \u064a\u0633\u062d\u0628 1.6 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u0645\u0646 5 \u0628\u0646\u0648\u0643 - \u0625\u0631\u0645 \u0628\u0632\u0646\u0633"
+    ],
+    "timestamp": 1776187742.7166731,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "bbae9320-b093-4290-86de-a3bc5c075be0",
+    "signal_key": "JUFO_BUY_2026-04-14",
+    "ticker": "JUFO",
+    "name": "Juhayna Food Industries",
+    "sector": "Food & Beverages",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "As a major player in the food industry, Juhayna will benefit from lower import costs and increased consumer spending.",
+    "news_titles": [
+      "\u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0628\u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 14 \u0623\u0628\u0631\u064a\u0644 2026 - \u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0623\u0647\u0631\u0627\u0645"
+    ],
+    "timestamp": 1776187742.7166731,
+    "date": "2026-04-14",
+    "price_at_signal": 26.6,
+    "price_24h": 26.71,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "00233abf-4aab-4dd3-bfa5-978842a37467",
+    "signal_key": "EGAZ_SELL_2026-04-14",
+    "ticker": "EGAZ",
+    "name": "Egyptian Gas Company",
+    "sector": "Oil & Gas",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "Falling oil prices could signal reduced demand for gas products in the near term.",
+    "news_titles": [
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0646\u0641\u0637 \u062a\u0639\u0645\u0642 \u062e\u0633\u0627\u0626\u0631\u0647\u0627 \u0645\u0639 \u062a\u062c\u062f\u062f \u0622\u0645\u0627\u0644 \u0627\u0633\u062a\u0626\u0646\u0627\u0641 \u0645\u0641\u0627\u0648\u0636\u0627\u062a \u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "timestamp": 1776187742.7166731,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "3f98df4d-2d56-4904-a032-0de44b214b5f",
+    "signal_key": "SWDY_WATCH_2026-04-14",
+    "ticker": "SWDY",
+    "name": "El Sewedy Electric",
+    "sector": "Steel & Manufacturing",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Increased oil prices may lead to higher operational costs, impacting profitability.",
+    "news_titles": [
+      "Higher oil prices, regional uncertainty weigh on Egypt\u2019s 2026 investment outlook: IMF - Economy - Business - Ahram Online",
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0646\u0641\u0637 \u062a\u0639\u0645\u0642 \u062e\u0633\u0627\u0626\u0631\u0647\u0627 \u0645\u0639 \u062a\u062c\u062f\u062f \u0622\u0645\u0627\u0644 \u0627\u0633\u062a\u0626\u0646\u0627\u0641 \u0645\u0641\u0627\u0648\u0636\u0627\u062a \u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "timestamp": 1776188351.181504,
+    "date": "2026-04-14",
+    "price_at_signal": 81.39,
+    "price_24h": 81.45,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "2d090402-1bb5-4d7a-b109-d20503467564",
+    "signal_key": "CIB_BUY_2026-04-14",
+    "ticker": "CIB",
+    "name": "Commercial International Bank (CIB)",
+    "sector": "Banking & Finance",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Increased credit risk due to economic uncertainty may affect bank performance.",
+    "news_titles": [
+      "Higher oil prices, regional uncertainty weigh on Egypt\u2019s 2026 investment outlook: IMF - Economy - Business - Ahram Online",
+      "Gold and silver rise as weaker dollar and oil ease inflation fears - MSN"
+    ],
+    "timestamp": 1776188351.181504,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "e238a31e-b85f-4d01-bdde-1cbc646be141",
+    "signal_key": "OCDI_SELL_2026-04-14",
+    "ticker": "OCDI",
+    "name": "Orascom Development Egypt",
+    "sector": "Real Estate & Construction",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "Higher import costs for construction materials will impact profitability.",
+    "news_titles": [
+      "\u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0645\u0631\u0643\u0632\u0649 \u0627\u0644\u0645\u0635\u0631\u0649.. 52.44 \u062c\u0646\u064a\u0647 \u0644\u0644\u0634\u0631\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776188351.181504,
+    "date": "2026-04-14",
+    "price_at_signal": 19.62,
+    "price_24h": 20.15,
+    "price_48h": null,
+    "outcome": "LOSS"
+  },
+  {
+    "id": "cd84c57f-ccb3-4f10-bb2c-691884ac3f55",
+    "signal_key": "EGTS_WATCH_2026-04-14",
+    "ticker": "EGTS",
+    "name": "Egyptian Tourism Resorts",
+    "sector": "Tourism & Hospitality",
+    "action": "WATCH",
+    "confidence": "HIGH",
+    "reason": "An increase in tourism will directly benefit companies in the tourism sector.",
+    "news_titles": [
+      "\u0646\u0645\u0648 \u062a\u062d\u0648\u064a\u0644\u0627\u062a \u0627\u0644\u0639\u0627\u0645\u0644\u064a\u0646 \u0628\u0627\u0644\u062e\u0627\u0631\u062c \u0648\u0627\u0644\u0633\u064a\u0627\u062d\u0629 \u064a\u062f\u0639\u0645 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a - \u0627\u0644\u0628\u0648\u0627\u0628\u0629 \u0646\u064a\u0648\u0632",
+      "Gold Price Edges Higher As Crucial US-Iran Deal Hopes Pressure US Dollar, but Analysts Warn of Li... - Binance"
+    ],
+    "timestamp": 1776189159.659756,
+    "date": "2026-04-14",
+    "price_at_signal": 7.65,
+    "price_24h": 9.18,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "2c1f49d1-a23c-4b8b-919b-f26fbc21d9b4",
+    "signal_key": "QNBA_BUY_2026-04-14",
+    "ticker": "QNBA",
+    "name": "QNB Alahli Bank",
+    "sector": "Banking & Finance",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "The potential for higher FDI can improve QNB's growth prospects and profitability.",
+    "news_titles": [
+      "\u0648\u0632\u064a\u0631 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631 \u064a\u0628\u062d\u062b \u0645\u0639 \u0642\u064a\u0627\u062f\u0627\u062a \u0641\u064a\u0632\u0627 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u0649 \u0648\u0627\u0634\u0646\u0637\u0646 \u0632\u064a\u0627\u062f\u0629 \u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a\u0647\u0645 \u0628\u0645\u0635\u0631 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u0631\u063a\u0645 \u0627\u0644\u0635\u0631\u0627\u0639 \u0628\u0627\u0644\u0645\u0646\u0637\u0642\u0629.. \u0627\u0644\u0645\u0633\u062a\u062b\u0645\u0631\u0648\u0646 \u0627\u0644\u0623\u062c\u0627\u0646\u0628 \u064a\u0634\u062a\u0631\u0648\u0646 \u0623\u0630\u0648\u0646 \u062e\u0632\u0627\u0646\u0629 \u0628\u0627\u0644\u062c\u0646\u064a\u0647 \u0628\u0640 1.3 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u0627\u0644\u064a\u0648\u0645 - Masrawy"
+    ],
+    "timestamp": 1776189159.659756,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "26aed225-7161-4e72-af29-0a30b1bd4594",
+    "signal_key": "JUFO_WATCH_2026-04-14",
+    "ticker": "JUFO",
+    "name": "Juhayna Food Industries",
+    "sector": "Food & Beverages",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Increased consumer spending due to economic growth may benefit food and beverage companies.",
+    "news_titles": [
+      "\u0645\u0633\u062a\u0634\u0627\u0631 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u062f\u0648\u0644\u0649 \u0633\u0627\u0628\u0642\u0627: \u0646\u062a\u0648\u0642\u0639 \u0646\u0645\u0648 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u0649 \u0628\u0646\u0633\u0628\u0629 4.8% \u0627\u0644\u0639\u0627\u0645 \u0627\u0644\u0645\u0642\u0628\u0644 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u0623\u0642\u0644 \u0645\u0646 \u0627\u0644\u0640 53.. \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u064a\u062a\u0631\u0627\u062c\u0639 \u0623\u0645\u0627\u0645 \u0627\u0644\u062c\u0646\u064a\u0647 \u0627\u0644\u0645\u0635\u0631\u064a \u0641\u064a \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0645\u0631\u0643\u0632\u064a - \u0623\u0647\u0644 \u0645\u0635\u0631"
+    ],
+    "timestamp": 1776189159.659756,
+    "date": "2026-04-14",
+    "price_at_signal": 26.6,
+    "price_24h": 26.71,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "8c37df04-2014-4b97-ba9c-1b2dfa523c38",
+    "signal_key": "ADIB_WATCH_2026-04-14",
+    "ticker": "ADIB",
+    "name": "Abu Dhabi Islamic Bank Egypt",
+    "sector": "Banking & Finance",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "While the bank may benefit from currency stabilization, the extent of impact will depend on its exposure to foreign currency loans.",
+    "news_titles": [
+      "\u0628\u0642\u0631\u0627\u0628\u0629 70 \u0642\u0631\u0634\u0627\u064b.. \u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u062e\u062a\u0627\u0645 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u062a\u0642\u0631 \u0632\u064a\u0627\u062f\u0629 \u0631\u0623\u0633\u0645\u0627\u0644 \u00ab\u0628\u0646\u0643 \u0642\u0646\u0627\u0629 \u0627\u0644\u0633\u0648\u064a\u0633\u00bb \u0625\u0644\u0649 10 \u0645\u0644\u064a\u0627\u0631\u0627\u062a \u062c\u0646\u064a\u0647 \u0648\u062a\u0648\u0632\u064a\u0639 350 \u0645\u0644\u064a\u0648\u0646 \u0633\u0647\u0645 \u0645\u062c\u0627\u0646\u064a - Fintechgate"
+    ],
+    "timestamp": 1776189159.659756,
+    "date": "2026-04-14",
+    "price_at_signal": 43.55,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "2bf5b735-8f3b-4722-b5fd-bf71741089ae",
+    "signal_key": "AMOC_WATCH_2026-04-14",
+    "ticker": "AMOC",
+    "name": "Alexandria Mineral Oils Company",
+    "sector": "Oil & Gas",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Higher oil prices could benefit the company but may also lead to increased costs in other sectors.",
+    "news_titles": [
+      "Higher oil prices, regional uncertainty weigh on Egypt\u2019s 2026 investment outlook: IMF - Economy - Business - Ahram Online",
+      "Gold firms as oil prices slip back below $100, easing inflation fears - Investing.com"
+    ],
+    "timestamp": 1776189159.659756,
+    "date": "2026-04-14",
+    "price_at_signal": 8.23,
+    "price_24h": 8.25,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "7b5a673f-15f8-4f86-a3b9-dc6c5a67b1d8",
+    "signal_key": "MNHD_BUY_2026-04-14",
+    "ticker": "MNHD",
+    "name": "Madinet Nasr Housing",
+    "sector": "Real Estate & Construction",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "A growing economy typically boosts demand for housing and real estate development.",
+    "news_titles": [
+      "\u0645\u0633\u062a\u0634\u0627\u0631 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u062f\u0648\u0644\u0649 \u0633\u0627\u0628\u0642\u0627: \u0646\u062a\u0648\u0642\u0639 \u0646\u0645\u0648 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u0649 \u0628\u0646\u0633\u0628\u0629 4.8% \u0627\u0644\u0639\u0627\u0645 \u0627\u0644\u0645\u0642\u0628\u0644 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "9.4 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u0635\u0627\u0641\u064a \u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0623\u062c\u0646\u0628\u064a\u0629 \u0645\u0628\u0627\u0634\u0631\u0629 \u0641\u064a \u0645\u0635\u0631 \u062e\u0644\u0627\u0644 \u0627\u0644\u0646\u0635\u0641 \u0627\u0644\u062b\u0627\u0646\u064a \u0645\u0646 2025 - \u0627\u0644\u062a\u0639\u0645\u064a\u0631"
+    ],
+    "timestamp": 1776189159.659756,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "1957b4ed-2814-4df7-a4c2-7b29b9db0977",
+    "signal_key": "PHDC_WATCH_2026-04-14",
+    "ticker": "PHDC",
+    "name": "Palm Hills Developments",
+    "sector": "Real Estate & Construction",
+    "action": "WATCH",
+    "confidence": "HIGH",
+    "reason": "The influx of FDI is expected to stimulate the real estate market.",
+    "news_titles": [
+      "9.4 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u0635\u0627\u0641\u064a \u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0623\u062c\u0646\u0628\u064a\u0629 \u0645\u0628\u0627\u0634\u0631\u0629 \u0641\u064a \u0645\u0635\u0631 \u062e\u0644\u0627\u0644 \u0627\u0644\u0646\u0635\u0641 \u0627\u0644\u062b\u0627\u0646\u064a \u0645\u0646 2025 - \u0627\u0644\u062a\u0639\u0645\u064a\u0631",
+      "\u0628\u0642\u0631\u0627\u0628\u0629 70 \u0642\u0631\u0634\u0627\u064b.. \u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u062e\u062a\u0627\u0645 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776189159.659756,
+    "date": "2026-04-14",
+    "price_at_signal": 8.43,
+    "price_24h": 8.55,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "58cdb81e-c256-4c3c-aa26-287748c4abd4",
+    "signal_key": "MNCO_BUY_2026-04-14",
+    "ticker": "MNCO",
+    "name": "Mining & Metallurgical Co",
+    "sector": "Mining & Metals",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Higher gold prices can enhance the company's revenue potential.",
+    "news_titles": [
+      "Gold and silver rise as weaker dollar and oil ease inflation fears - MSN",
+      "Silver Leads Metals Surge as Inflation Fears Rise; Dollar Mixed - Whalesbook"
+    ],
+    "timestamp": 1776189159.659756,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "b2c79c3a-7d7e-409f-800f-21e84f4d0425",
+    "signal_key": "MNHD_SELL_2026-04-14",
+    "ticker": "MNHD",
+    "name": "Madinet Nasr Housing",
+    "sector": "Real Estate & Construction",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "The positive economic outlook can stimulate real estate investments, benefiting companies like MNHD.",
+    "news_titles": [
+      "\u062e\u0628\u0631\u0627\u0621: \u062a\u062b\u0628\u064a\u062a \u00ab\u0633\u062a\u0627\u0646\u062f\u0631\u062f \u0622\u0646\u062f \u0628\u0648\u0631\u0632\u00bb \u062a\u0635\u0646\u064a\u0641 \u0645\u0635\u0631 \u0627\u0644\u0627\u0626\u062a\u0645\u0627\u0646\u0649 \u064a\u0639\u0643\u0633 \u0635\u0644\u0627\u0628\u0629 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0631\u063a\u0645 \u0627\u0644\u062a\u0648\u062a\u0631\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 - dostor.org",
+      "\u201c\u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0625\u062f\u0627\u0631\u064a\u0629\u201d \u062a\u062d\u0630\u0631 \u0645\u0646 \u0625\u0639\u0644\u0627\u0646\u0627\u062a \u0645\u0636\u0644\u0644\u0629 \u0644\u0645\u0634\u0631\u0648\u0639\u0627\u062a \u0648\u0647\u0645\u064a\u0629"
+    ],
+    "timestamp": 1776190792.129015,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "89c4f19d-b48d-46c4-81d4-3ba41e0fd98d",
+    "signal_key": "ISPH_BUY_2026-04-14",
+    "ticker": "ISPH",
+    "name": "Ibnsina Pharma",
+    "sector": "Pharmaceuticals & Healthcare",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "A weaker dollar may lower costs for imported pharmaceutical ingredients, improving profitability.",
+    "news_titles": [
+      "\u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0628\u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 14 \u0623\u0628\u0631\u064a\u0644 2026 - \u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0623\u0647\u0631\u0627\u0645",
+      "\u0628\u0642\u0631\u0627\u0628\u0629 70 \u0642\u0631\u0634\u0627\u064b.. \u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u062e\u062a\u0627\u0645 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776190792.129015,
+    "date": "2026-04-14",
+    "price_at_signal": 10.44,
+    "price_24h": 10.36,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "9c5aeb76-6f5d-4d51-8301-4b36165ef83e",
+    "signal_key": "EGPC_SELL_2026-04-14",
+    "ticker": "EGPC",
+    "name": "Egyptian Petroleum",
+    "sector": "Oil & Gas",
+    "action": "SELL",
+    "confidence": "HIGH",
+    "reason": "The company's profitability is closely tied to oil prices, which are now declining.",
+    "news_titles": [
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0646\u0641\u0637 \u062a\u0639\u0645\u0642 \u062e\u0633\u0627\u0626\u0631\u0647\u0627 \u0645\u0639 \u062a\u062c\u062f\u062f \u0622\u0645\u0627\u0644 \u0627\u0633\u062a\u0626\u0646\u0627\u0641 \u0645\u0641\u0627\u0648\u0636\u0627\u062a \u0627\u0644\u0633\u0644\u0627\u0645",
+      "\u0632\u0627\u0645\u0628\u064a\u0627 \u062a\u062e\u0633\u0631 100 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u062c\u0631\u0627\u0621 \u062a\u062f\u0627\u0639\u064a\u0627\u062a \u062d\u0631\u0628 \u0625\u064a\u0631\u0627\u0646"
+    ],
+    "timestamp": 1776191329.981964,
+    "date": "2026-04-14",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "c50f34e3-443c-4358-b432-ed58b1ff183a",
+    "signal_key": "ADIB_SELL_2026-04-14",
+    "ticker": "ADIB",
+    "name": "Abu Dhabi Islamic Bank Egypt",
+    "sector": "Banking & Finance",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "While not directly impacted, ADIB may benefit from overall sector positivity.",
+    "news_titles": [
+      "\u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u062a\u0642\u0631 \u0632\u064a\u0627\u062f\u0629 \u0631\u0623\u0633\u0645\u0627\u0644 \u00ab\u0628\u0646\u0643 \u0642\u0646\u0627\u0629 \u0627\u0644\u0633\u0648\u064a\u0633\u00bb \u0625\u0644\u0649 10 \u0645\u0644\u064a\u0627\u0631\u0627\u062a \u062c\u0646\u064a\u0647 \u0648\u062a\u0648\u0632\u064a\u0639 350 \u0645\u0644\u064a\u0648\u0646 \u0633\u0647\u0645 \u0645\u062c\u0627\u0646\u064a - Fintechgate",
+      "\u0628\u0641\u0627\u0626\u062f\u0629 19.5%.. \u00ab\u0627\u0644\u0645\u0631\u0643\u0632\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u00bb \u064a\u0633\u062d\u0628 1.6 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u0645\u0646 5 \u0628\u0646\u0648\u0643 - \u0625\u0631\u0645 \u0628\u0632\u0646\u0633"
+    ],
+    "timestamp": 1776191329.981964,
+    "date": "2026-04-14",
+    "price_at_signal": 43.55,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "4353f642-d264-4778-9e0e-5cef20a9dce7",
+    "signal_key": "ISPH_SELL_2026-04-14",
+    "ticker": "ISPH",
+    "name": "Ibnsina Pharma",
+    "sector": "Pharmaceuticals & Healthcare",
+    "action": "SELL",
+    "confidence": "HIGH",
+    "reason": "Higher dollar rates increase import costs for raw materials, squeezing margins.",
+    "news_titles": [
+      "\u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0645\u0631\u0643\u0632\u0649 \u0627\u0644\u0645\u0635\u0631\u0649.. 52.44 \u062c\u0646\u064a\u0647 \u0644\u0644\u0634\u0631\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u0628\u0642\u0631\u0627\u0628\u0629 70 \u0642\u0631\u0634\u0627\u064b.. \u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u062e\u062a\u0627\u0645 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776191329.981964,
+    "date": "2026-04-14",
+    "price_at_signal": 10.44,
+    "price_24h": 10.36,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "ff2b99f7-1ca0-45e2-bff6-a8d50acac842",
+    "signal_key": "COMI_BUY_2026-04-15",
+    "ticker": "COMI",
+    "name": "Commercial International Bank (CIB)",
+    "sector": "Banking & Finance",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Stability in the dollar may encourage investor confidence in the banking sector.",
+    "news_titles": [
+      "\u062b\u0628\u0627\u062a \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621 15-4-2026 \u0641\u0649 \u0627\u0644\u0628\u0646\u0648\u0643 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u0648\u0632\u064a\u0631 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629: \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u0623\u0638\u0647\u0631 \u0635\u0644\u0627\u0628\u0629 \u0628\u0641\u0636\u0644 \u0627\u0644\u0625\u0635\u0644\u0627\u062d\u0627\u062a - Masrawy"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": 129.4,
+    "price_24h": 133.99,
+    "price_48h": null,
+    "outcome": "WIN"
+  },
+  {
+    "id": "6bb34c75-7a7a-4e27-9b7e-00bfd34ee28e",
+    "signal_key": "EGTS_WATCH_2026-04-15",
+    "ticker": "EGTS",
+    "name": "Egyptian Tourism Resorts",
+    "sector": "Tourism & Hospitality",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Improved geopolitical stability may boost tourism, benefiting hospitality stocks.",
+    "news_titles": [
+      "\u0627\u0644\u0630\u0647\u0628 \u064a\u0631\u062a\u0641\u0639 \u0639\u0646\u062f \u0627\u0644\u062a\u0633\u0648\u064a\u0629 \u0648\u0627\u0644\u0641\u0636\u0629 \u062a\u0642\u0641\u0632 \u0628\u0623\u0643\u062b\u0631 \u0645\u0646 5%",
+      "\u0627\u0644\u062a\u0648\u062a\u0631\u0627\u062a \u0627\u0644\u062c\u064a\u0648\u0633\u064a\u0627\u0633\u064a\u0629 \u062a\u0639\u064a\u062f \u062a\u0634\u0643\u064a\u0644 \u062e\u0631\u064a\u0637\u0629 \u0627\u0644\u0634\u062d\u0646 \u0648\u0633\u0644\u0627\u0633\u0644 \u0627\u0644\u0625\u0645\u062f\u0627\u062f"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": 7.65,
+    "price_24h": 9.18,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "93c12126-a54c-4b25-9fc1-9538c56a434e",
+    "signal_key": "EMFD_BUY_2026-04-15",
+    "ticker": "EMFD",
+    "name": "Emaar Misr",
+    "sector": "Real Estate & Construction",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "A resilient economy typically boosts demand for real estate, benefiting developers.",
+    "news_titles": [
+      "\u0648\u0632\u064a\u0631 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629: \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u0623\u0638\u0647\u0631 \u0635\u0644\u0627\u0628\u0629 \u0628\u0641\u0636\u0644 \u0627\u0644\u0625\u0635\u0644\u0627\u062d\u0627\u062a - Masrawy",
+      "\u062e\u0628\u064a\u0631 \u0627\u0642\u062a\u0635\u0627\u062f\u064a: \u201c\u0641\u064a\u062a\u0634\u201d \u062a\u0645\u0646\u062d \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u0634\u0647\u0627\u062f\u0629 \u062b\u0642\u0629.. \u0648\u0645\u0635\u0631 \u062b\u0627\u0644\u062b\u0629 \u0625\u0642\u0644\u064a\u0645\u064a\u064b\u0627 \u0641\u064a \u062c\u0630\u0628 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a - \u0623\u0647\u0644 \u0645\u0635\u0631"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": 9.27,
+    "price_24h": 9.35,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "d5692df0-444d-411d-b5ae-834567f219c1",
+    "signal_key": "TMGH_BUY_2026-04-15",
+    "ticker": "TMGH",
+    "name": "Talaat Moustafa Group",
+    "sector": "Real Estate & Construction",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Positive economic outlook can enhance consumer sentiment towards property investments.",
+    "news_titles": [
+      "\u0648\u0632\u064a\u0631 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629: \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u0623\u0638\u0647\u0631 \u0635\u0644\u0627\u0628\u0629 \u0628\u0641\u0636\u0644 \u0627\u0644\u0625\u0635\u0644\u0627\u062d\u0627\u062a - Masrawy",
+      "\u0645\u0635\u0631 \u062a\u0633\u062a\u062d\u0648\u0630 \u0639\u0644\u0649 10.6% \u0645\u0646 \u0625\u062c\u0645\u0627\u0644\u0649 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u0649 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u062c\u062f\u062f\u0629 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0628\u0648\u0631\u0635\u0629"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": 84.99,
+    "price_24h": 85.5,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "dffd9e85-05b6-4cf9-b3c5-b3d5bd036ff6",
+    "signal_key": "CENT_BUY_2026-04-15",
+    "ticker": "CENT",
+    "name": "Centamin Egypt (Gold)",
+    "sector": "Mining & Metals",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "Higher gold prices directly increase the profitability of gold mining companies.",
+    "news_titles": [
+      "\u0627\u0644\u0630\u0647\u0628 \u064a\u0631\u062a\u0641\u0639 \u0639\u0646\u062f \u0627\u0644\u062a\u0633\u0648\u064a\u0629 \u0648\u0627\u0644\u0641\u0636\u0629 \u062a\u0642\u0641\u0632 \u0628\u0623\u0643\u062b\u0631 \u0645\u0646 5%",
+      "Gold price testing $4,800 resistance as softer inflation, easing tensions weigh on U.S. dollar - KITCO"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "2fb2937e-c9c2-4ff5-9b7f-c60d7d8e91af",
+    "signal_key": "SCFN_WATCH_2026-04-15",
+    "ticker": "SCFN",
+    "name": "Suez Canal Bank",
+    "sector": "Suez Canal & Logistics",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "While Suez Canal revenues may be affected by shipping disruptions, the long-term strategic importance remains.",
+    "news_titles": [
+      "\u0627\u0644\u062a\u0648\u062a\u0631\u0627\u062a \u0627\u0644\u062c\u064a\u0648\u0633\u064a\u0627\u0633\u064a\u0629 \u062a\u0639\u064a\u062f \u062a\u0634\u0643\u064a\u0644 \u062e\u0631\u064a\u0637\u0629 \u0627\u0644\u0634\u062d\u0646 \u0648\u0633\u0644\u0627\u0633\u0644 \u0627\u0644\u0625\u0645\u062f\u0627\u062f",
+      "\u0647\u0644 \u062a\u0646\u062c\u062d \u0627\u0644\u0647\u062f\u0646\u0629 \u0641\u0649 \u062e\u0641\u0636 \u0639\u0644\u0627\u0648\u0629 \u0627\u0644\u0645\u062e\u0627\u0637\u0631 \u0648\u062f\u0639\u0645 \u062c\u0627\u0630\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0642\u061f"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "03f9c031-8c2e-4ac3-9366-da1a542ad5d3",
+    "signal_key": "SWDY_BUY_2026-04-15",
+    "ticker": "SWDY",
+    "name": "El Sewedy Electric",
+    "sector": "Steel & Manufacturing",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "Increased shipping costs and supply chain disruptions will likely squeeze profit margins.",
+    "news_titles": [
+      "\u0627\u0644\u062a\u0648\u062a\u0631\u0627\u062a \u0627\u0644\u062c\u064a\u0648\u0633\u064a\u0627\u0633\u064a\u0629 \u062a\u0639\u064a\u062f \u062a\u0634\u0643\u064a\u0644 \u062e\u0631\u064a\u0637\u0629 \u0627\u0644\u0634\u062d\u0646 \u0648\u0633\u0644\u0627\u0633\u0644 \u0627\u0644\u0625\u0645\u062f\u0627\u062f",
+      "\u0645\u0635\u0631 \u062a\u0633\u062a\u062d\u0648\u0630 \u0639\u0644\u0649 10.6% \u0645\u0646 \u0625\u062c\u0645\u0627\u0644\u0649 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u0649 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u062c\u062f\u062f\u0629 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0628\u0648\u0631\u0635\u0629"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": 81.39,
+    "price_24h": 81.45,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "522fd7be-83fc-4560-b28f-e1db84dd5217",
+    "signal_key": "JUFO_BUY_2026-04-15",
+    "ticker": "JUFO",
+    "name": "Juhayna Food Industries",
+    "sector": "Food & Beverages",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "Increased food exports suggest higher demand for Juhayna's products, likely boosting sales and profitability.",
+    "news_titles": [
+      "\u0635\u0627\u062f\u0631\u0627\u062a \u0627\u0644\u0635\u0646\u0627\u0639\u0627\u062a \u0627\u0644\u063a\u0630\u0627\u0626\u064a\u0629 \u062a\u062a\u062c\u0627\u0648\u0632 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u0623\u0648\u0644 \u0634\u0647\u0631\u064a\u0646 \u0645\u0646 2026",
+      "\u062a\u0631\u0627\u062c\u0639 \u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0643\u0627\u0643\u0627\u0648 \u064a\u0646\u0639\u0634 \u0627\u0644\u0637\u0644\u0628 \u0648\u064a\u062e\u0641\u0641 \u0627\u0644\u0636\u063a\u0648\u0637 \u0639\u0644\u0649 \u0633\u0648\u0642 \u0627\u0644\u0634\u0648\u0643\u0648\u0644\u0627\u062a\u0629"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": 26.6,
+    "price_24h": 26.71,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "429fb163-4ffc-437e-8db1-12049c0e9d15",
+    "signal_key": "AMOC_WATCH_2026-04-15",
+    "ticker": "AMOC",
+    "name": "Alexandria Mineral Oils Company",
+    "sector": "Oil & Gas",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Lower oil prices may reduce operational costs, but the stock's performance will depend on broader market sentiment.",
+    "news_titles": [
+      "\u0647\u0644 \u062a\u0646\u062c\u062d \u0627\u0644\u0647\u062f\u0646\u0629 \u0641\u0649 \u062e\u0641\u0636 \u0639\u0644\u0627\u0648\u0629 \u0627\u0644\u0645\u062e\u0627\u0637\u0631 \u0648\u062f\u0639\u0645 \u062c\u0627\u0630\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0642\u061f",
+      "Higher oil prices, regional uncertainty weigh on Egypt\u2019s 2026 investment outlook: IMF - Economy - Business - Ahram Online"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": 8.23,
+    "price_24h": 8.25,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "ebccabe5-0c8a-4ba2-99c8-4b0da1977233",
+    "signal_key": "QNBA_BUY_2026-04-15",
+    "ticker": "QNBA",
+    "name": "QNB Alahli Bank",
+    "sector": "Banking & Finance",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "A stable dollar can positively influence banking operations and investor sentiment.",
+    "news_titles": [
+      "\u062b\u0628\u0627\u062a \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621 15-4-2026 \u0641\u0649 \u0627\u0644\u0628\u0646\u0648\u0643 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u0637\u0648\u0641\u0627\u0646 \u0633\u064a\u0648\u0644\u0629 \u0628\u0640 1.3 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u064a\u063a\u0645\u0631 \u0623\u062f\u0648\u0627\u062a \u0627\u0644\u062f\u064a\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u064a\u0629 \u0641\u0649 \u062c\u0644\u0633\u0629 \u0648\u0627\u062d\u062f\u0629"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "236328f7-e3ff-407d-b8fc-5530b8bb500f",
+    "signal_key": "CIB_BUY_2026-04-15",
+    "ticker": "CIB",
+    "name": "Commercial International Bank (CIB)",
+    "sector": "Banking & Finance",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Increased economic uncertainty may lead to higher default risks and reduced lending activity.",
+    "news_titles": [
+      "\u0645\u0635\u0637\u0641\u0649 \u0628\u062f\u0631\u0629: \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u064a\u0648\u0627\u062c\u0647 \u0635\u062f\u0645\u0627\u062a \u062e\u0627\u0631\u062c\u064a\u0629 \u0645\u062a\u062a\u0627\u0644\u064a\u0629 \u0628\u0633\u0628\u0628 \u0623\u0632\u0645\u0627\u062a \u0627\u0644\u0645\u0646\u0637\u0642\u0629 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0645\u0627\u0644",
+      "\u0623\u0642\u0644 \u0645\u0646 \u0627\u0644\u0640 53.. \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u064a\u062a\u0631\u0627\u062c\u0639 \u0623\u0645\u0627\u0645 \u0627\u0644\u062c\u0646\u064a\u0647 \u0627\u0644\u0645\u0635\u0631\u064a \u0641\u064a \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0645\u0631\u0643\u0632\u064a - \u0623\u0647\u0644 \u0645\u0635\u0631"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "f308bdd3-d642-4307-836d-b271b3a25dbd",
+    "signal_key": "MNHD_SELL_2026-04-15",
+    "ticker": "MNHD",
+    "name": "Madinet Nasr Housing",
+    "sector": "Real Estate & Construction",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "The stronger pound could stimulate housing market activity, positively impacting sales.",
+    "news_titles": [
+      "\u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0628\u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 14 \u0623\u0628\u0631\u064a\u0644 2026 - \u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0623\u0647\u0631\u0627\u0645",
+      "\u0635\u0646\u062f\u0648\u0642 \u0627\u0644\u0646\u0642\u062f \u064a\u062e\u0641\u0636 \u062a\u0648\u0642\u0639\u0627\u062a\u0647 \u0644\u0646\u0645\u0648 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u0625\u0644\u0649 4.2% - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0645\u0627\u0644"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "32a87bf7-39e9-4a12-bdc4-4f641e2e3b89",
+    "signal_key": "MNCO_BUY_2026-04-15",
+    "ticker": "MNCO",
+    "name": "Mining & Metallurgical Co",
+    "sector": "Mining & Metals",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Increased demand for precious metals can enhance revenue for mining companies.",
+    "news_titles": [
+      "\u0627\u0644\u0630\u0647\u0628 \u064a\u0631\u062a\u0641\u0639 \u0639\u0646\u062f \u0627\u0644\u062a\u0633\u0648\u064a\u0629 \u0648\u0627\u0644\u0641\u0636\u0629 \u062a\u0642\u0641\u0632 \u0628\u0623\u0643\u062b\u0631 \u0645\u0646 5%",
+      "Why are gold and silver prices up, and will precious metals continue to rise or fall again shortly? Analys - The Economic Times"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "8c8d9b98-1c9e-448d-af79-b0d8679d26f0",
+    "signal_key": "FWRY_WATCH_2026-04-15",
+    "ticker": "FWRY",
+    "name": "Fawry Banking Technology",
+    "sector": "Banking & Finance",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Fawry could see indirect benefits from increased banking activity and foreign investment.",
+    "news_titles": [
+      "\u0637\u0648\u0641\u0627\u0646 \u0633\u064a\u0648\u0644\u0629 \u0628\u0640 1.3 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u064a\u063a\u0645\u0631 \u0623\u062f\u0648\u0627\u062a \u0627\u0644\u062f\u064a\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u064a\u0629 \u0641\u0649 \u062c\u0644\u0633\u0629 \u0648\u0627\u062d\u062f\u0629",
+      "\u0635\u0646\u062f\u0648\u0642 \u0627\u0644\u0646\u0642\u062f \u064a\u062e\u0641\u0636 \u062a\u0648\u0642\u0639\u0627\u062a\u0647 \u0644\u0646\u0645\u0648 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u0625\u0644\u0649 4.2% - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0645\u0627\u0644"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": 18.5,
+    "price_24h": 19.1,
+    "price_48h": null,
+    "outcome": "NEUTRAL"
+  },
+  {
+    "id": "ea515714-a2a9-44a3-945a-2703067c783a",
+    "signal_key": "OCDI_BUY_2026-04-15",
+    "ticker": "OCDI",
+    "name": "Orascom Development Egypt",
+    "sector": "Real Estate & Construction",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "Orascom is likely to see growth from new projects related to renewable energy developments.",
+    "news_titles": [
+      "\u201c\u0641\u064a\u062a\u0634\u201d \u062a\u062a\u0648\u0642\u0639 \u062a\u0641\u0648\u0642 \u0645\u0635\u0631 \u0641\u0649 \u0646\u0645\u0648 \u0642\u062f\u0631\u0627\u062a \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u062c\u062f\u062f\u0629",
+      "Wayz \u0627\u0644\u062a\u0627\u0628\u0639\u0629 \u0644\u0645\u064a\u062f\u0627\u0631 \u062a\u062d\u0635\u0644 \u0639\u0644\u0649 \u0634\u0647\u0627\u062f\u0629 \u0627\u0644\u0623\u064a\u0632\u0648 \u0644\u0646\u0638\u0627\u0645 \u0625\u062f\u0631\u0627\u0629 \u0627\u0644\u0633\u0644\u0627\u0645\u0629 \u0627\u0644\u0645\u0631\u0648\u0631\u064a\u0629 \u0639\u0644\u0649 \u0627\u0644\u0637\u0631\u0642"
+    ],
+    "timestamp": 1776204747.771692,
+    "date": "2026-04-15",
+    "price_at_signal": 19.62,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "f1f5e221-7105-48cf-a89e-72bdab8e9494",
+    "signal_key": "SWDY_WATCH_2026-04-15",
+    "ticker": "SWDY",
+    "name": "El Sewedy Electric",
+    "sector": "Steel & Manufacturing",
+    "action": "WATCH",
+    "confidence": "HIGH",
+    "reason": "Increased costs due to a stronger dollar can squeeze margins for manufacturing companies like El Sewedy Electric.",
+    "news_titles": [
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0623\u0645\u0627\u0645 \u0627\u0644\u062c\u0646\u064a\u0647 \u0628\u0627\u0644\u0628\u0646\u0648\u0643 \u0645\u0639 \u0628\u062f\u0627\u064a\u0629 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621 15 \u0623\u0628\u0631\u064a\u0644 2026 - bnokonline.com",
+      "\u0627\u0644\u0646\u0641\u0637 \u064a\u063a\u0644\u0642 \u0645\u0646\u062e\u0641\u0636\u064b\u0627 \u0628\u0639\u062f \u062a\u0644\u0645\u064a\u062d \u062a\u0631\u0627\u0645\u0628 \u0625\u0644\u0649 \u0627\u0633\u062a\u0626\u0646\u0627\u0641 \u0627\u0644\u0645\u0641\u0627\u0648\u0636\u0627\u062a \u0645\u0639 \u0625\u064a\u0631\u0627\u0646"
+    ],
+    "timestamp": 1776205518.800555,
+    "date": "2026-04-15",
+    "price_at_signal": 81.39,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "27bdfbf4-1625-48a4-80c8-724cfc90cd21",
+    "signal_key": "MNHD_BUY_2026-04-15",
+    "ticker": "MNHD",
+    "name": "Madinet Nasr Housing",
+    "sector": "Real Estate & Construction",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "Increased investments in renewable energy can drive demand for sustainable housing developments.",
+    "news_titles": [
+      "\u0645\u0635\u0631 \u062a\u0633\u062a\u062d\u0648\u0630 \u0639\u0644\u0649 10% \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u0649 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u062c\u062f\u062f\u0629 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0628\u0648\u0631\u0635\u0629",
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0623\u062e\u0634\u0627\u0628 \u0648\u0645\u0633\u062a\u0644\u0632\u0645\u0627\u062a \u0627\u0644\u0625\u0646\u062a\u0627\u062c \u062a\u062f\u0639\u0645\u0627\u0646 \u062a\u063a\u064a\u0631\u0627\u062a \u0627\u0644\u0623\u062b\u0627\u062b"
+    ],
+    "timestamp": 1776205518.800555,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "9caa93ba-6940-40a8-9ef6-4d853e49e50c",
+    "signal_key": "EGPC_SELL_2026-04-15",
+    "ticker": "EGPC",
+    "name": "Egyptian Petroleum",
+    "sector": "Oil & Gas",
+    "action": "SELL",
+    "confidence": "HIGH",
+    "reason": "Decreased oil prices can lead to lower revenues for state-owned oil companies.",
+    "news_titles": [
+      "\u0627\u0644\u0646\u0641\u0637 \u064a\u063a\u0644\u0642 \u0645\u0646\u062e\u0641\u0636\u064b\u0627 \u0628\u0639\u062f \u062a\u0644\u0645\u064a\u062d \u062a\u0631\u0627\u0645\u0628 \u0625\u0644\u0649 \u0627\u0633\u062a\u0626\u0646\u0627\u0641 \u0627\u0644\u0645\u0641\u0627\u0648\u0636\u0627\u062a \u0645\u0639 \u0625\u064a\u0631\u0627\u0646",
+      "\u062e\u0627\u0641\u064a\u064a\u0631 \u0628\u0644\u0627\u0633 \u064a\u0643\u062a\u0628: \u0647\u0644 \u062a\u064f\u063a\u064a\u0651\u0650\u0631 \u062d\u0631\u0628 \u0647\u0631\u0645\u0632 \u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0633\u064a\u0637\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0645\u0645\u0631\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629\u061f"
+    ],
+    "timestamp": 1776205518.800555,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "f0572b94-34ee-4d58-aa46-df1dcd16b854",
+    "signal_key": "PHDC_WATCH_2026-04-15",
+    "ticker": "PHDC",
+    "name": "Palm Hills Developments",
+    "sector": "Real Estate & Construction",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "The shift towards used furniture indicates a potential decline in new home purchases.",
+    "news_titles": [
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0623\u062e\u0634\u0627\u0628 \u0648\u0645\u0633\u062a\u0644\u0632\u0645\u0627\u062a \u0627\u0644\u0625\u0646\u062a\u0627\u062c \u062a\u062f\u0639\u0645\u0627\u0646 \u062a\u063a\u064a\u0631\u0627\u062a \u0627\u0644\u0623\u062b\u0627\u062b",
+      "\u0645\u0635\u0631 \u062a\u0633\u062a\u062d\u0648\u0630 \u0639\u0644\u0649 10% \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u0649 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u062c\u062f\u062f\u0629"
+    ],
+    "timestamp": 1776205518.800555,
+    "date": "2026-04-15",
+    "price_at_signal": 8.43,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "01d7e9db-2614-4a95-ada3-5b5482ede66f",
+    "signal_key": "AMOC_SELL_2026-04-15",
+    "ticker": "AMOC",
+    "name": "Alexandria Mineral Oils Company",
+    "sector": "Oil & Gas",
+    "action": "SELL",
+    "confidence": "HIGH",
+    "reason": "Lower oil prices directly reduce revenue potential for oil companies.",
+    "news_titles": [
+      "\u0627\u0644\u0646\u0641\u0637 \u064a\u063a\u0644\u0642 \u0645\u0646\u062e\u0641\u0636\u064b\u0627 \u0628\u0639\u062f \u062a\u0644\u0645\u064a\u062d \u062a\u0631\u0627\u0645\u0628 \u0625\u0644\u0649 \u0627\u0633\u062a\u0626\u0646\u0627\u0641 \u0627\u0644\u0645\u0641\u0627\u0648\u0636\u0627\u062a \u0645\u0639 \u0625\u064a\u0631\u0627\u0646",
+      "\u062e\u0627\u0641\u064a\u064a\u0631 \u0628\u0644\u0627\u0633 \u064a\u0643\u062a\u0628: \u0647\u0644 \u062a\u064f\u063a\u064a\u0651\u0650\u0631 \u062d\u0631\u0628 \u0647\u0631\u0645\u0632 \u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0633\u064a\u0637\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0645\u0645\u0631\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629\u061f"
+    ],
+    "timestamp": 1776207129.403457,
+    "date": "2026-04-15",
+    "price_at_signal": 8.23,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "8a512040-5fdb-469c-8127-3e2cacf6279d",
+    "signal_key": "ADIB_WATCH_2026-04-15",
+    "ticker": "ADIB",
+    "name": "Abu Dhabi Islamic Bank Egypt",
+    "sector": "Banking & Finance",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Potential benefits from liquidity but less direct exposure compared to larger banks.",
+    "news_titles": [
+      "\u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0645\u0631\u0643\u0632\u064a \u064a\u0642\u0628\u0644 \u0633\u064a\u0648\u0644\u0629 \u0628\u0642\u064a\u0645\u0629 82.7 \u0645\u0644\u064a\u0627\u0631 \u062c\u0646\u064a\u0647 \u0641\u064a \u0639\u0637\u0627\u0621 \u0648\u062f\u0627\u0626\u0639 \u0627\u0644\u0633\u0648\u0642 \u0627\u0644\u0645\u0641\u062a\u0648\u062d\u0629 - \u062c\u0631\u064a\u062f\u0629 \u062d\u0627\u0628\u064a",
+      "\u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u062a\u0642\u0631 \u0632\u064a\u0627\u062f\u0629 \u0631\u0623\u0633\u0645\u0627\u0644 \u00ab\u0628\u0646\u0643 \u0642\u0646\u0627\u0629 \u0627\u0644\u0633\u0648\u064a\u0633\u00bb \u0625\u0644\u0649 10 \u0645\u0644\u064a\u0627\u0631\u0627\u062a \u062c\u0646\u064a\u0647 \u0648\u062a\u0648\u0632\u064a\u0639 350 \u0645\u0644\u064a\u0648\u0646 \u0633\u0647\u0645 \u0645\u062c\u0627\u0646\u064a - Fintechgate"
+    ],
+    "timestamp": 1776207129.403457,
+    "date": "2026-04-15",
+    "price_at_signal": 43.55,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "b500c668-f797-4b92-8050-8d02846df0f0",
+    "signal_key": "ISPH_WATCH_2026-04-15",
+    "ticker": "ISPH",
+    "name": "Ibnsina Pharma",
+    "sector": "Pharmaceuticals & Healthcare",
+    "action": "WATCH",
+    "confidence": "HIGH",
+    "reason": "Higher dollar costs will increase import expenses for raw materials, squeezing margins.",
+    "news_titles": [
+      "\u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0645\u0631\u0643\u0632\u0649 \u0627\u0644\u0645\u0635\u0631\u0649.. 52.44 \u062c\u0646\u064a\u0647 \u0644\u0644\u0634\u0631\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0628\u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 14 \u0623\u0628\u0631\u064a\u0644 2026 - \u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0623\u0647\u0631\u0627\u0645"
+    ],
+    "timestamp": 1776207129.403457,
+    "date": "2026-04-15",
+    "price_at_signal": 10.44,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "2abec742-2693-40a7-ab8d-9d3e4076cc47",
+    "signal_key": "EGPC_WATCH_2026-04-15",
+    "ticker": "EGPC",
+    "name": "Egyptian Petroleum",
+    "sector": "Oil & Gas",
+    "action": "WATCH",
+    "confidence": "HIGH",
+    "reason": "As a state-owned enterprise, lower oil prices will likely impact profitability.",
+    "news_titles": [
+      "\u0627\u0644\u0646\u0641\u0637 \u064a\u063a\u0644\u0642 \u0645\u0646\u062e\u0641\u0636\u064b\u0627 \u0628\u0639\u062f \u062a\u0644\u0645\u064a\u062d \u062a\u0631\u0627\u0645\u0628 \u0625\u0644\u0649 \u0627\u0633\u062a\u0626\u0646\u0627\u0641 \u0627\u0644\u0645\u0641\u0627\u0648\u0636\u0627\u062a \u0645\u0639 \u0625\u064a\u0631\u0627\u0646",
+      "\u062e\u0627\u0641\u064a\u064a\u0631 \u0628\u0644\u0627\u0633 \u064a\u0643\u062a\u0628: \u0647\u0644 \u062a\u064f\u063a\u064a\u0651\u0650\u0631 \u062d\u0631\u0628 \u0647\u0631\u0645\u0632 \u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0633\u064a\u0637\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0645\u0645\u0631\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629\u061f"
+    ],
+    "timestamp": 1776207129.403457,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "82fceea3-55c6-43b8-a1b0-b7b37ea3b0a8",
+    "signal_key": "TMGH_WATCH_2026-04-15",
+    "ticker": "TMGH",
+    "name": "Talaat Moustafa Group",
+    "sector": "Real Estate & Construction",
+    "action": "WATCH",
+    "confidence": "HIGH",
+    "reason": "With improved economic sentiment, the real estate sector is expected to attract more investments.",
+    "news_titles": [
+      "\u062e\u0628\u064a\u0631 \u0627\u0642\u062a\u0635\u0627\u062f\u064a: \u201c\u0641\u064a\u062a\u0634\u201d \u062a\u0645\u0646\u062d \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u0634\u0647\u0627\u062f\u0629 \u062b\u0642\u0629.. \u0648\u0645\u0635\u0631 \u062b\u0627\u0644\u062b\u0629 \u0625\u0642\u0644\u064a\u0645\u064a\u064b\u0627 \u0641\u064a \u062c\u0630\u0628 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a - \u0623\u0647\u0644 \u0645\u0635\u0631",
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0623\u062e\u0634\u0627\u0628 \u0648\u0645\u0633\u062a\u0644\u0632\u0645\u0627\u062a \u0627\u0644\u0625\u0646\u062a\u0627\u062c \u062a\u062f\u0639\u0645\u0627\u0646 \u062a\u063a\u064a\u0631\u0627\u062a \u0627\u0644\u0623\u062b\u0627\u062b"
+    ],
+    "timestamp": 1776207940.621375,
+    "date": "2026-04-15",
+    "price_at_signal": 84.99,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "538358ee-322d-4600-9198-c4592e51be00",
+    "signal_key": "MNHD_WATCH_2026-04-15",
+    "ticker": "MNHD",
+    "name": "Madinet Nasr Housing",
+    "sector": "Real Estate & Construction",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Potential slowdown in foreign investment may affect new projects.",
+    "news_titles": [
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0623\u0645\u0627\u0645 \u0627\u0644\u062c\u0646\u064a\u0647 \u0628\u0627\u0644\u0628\u0646\u0648\u0643 \u0645\u0639 \u0628\u062f\u0627\u064a\u0629 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621 15 \u0623\u0628\u0631\u064a\u0644 2026 - bnokonline.com",
+      "\u0637\u0648\u0641\u0627\u0646 \u0633\u064a\u0648\u0644\u0629 \u0628\u0640 1.3 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u064a\u063a\u0645\u0631 \u0623\u062f\u0648\u0627\u062a \u0627\u0644\u062f\u064a\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u064a\u0629 \u0641\u0649 \u062c\u0644\u0633\u0629 \u0648\u0627\u062d\u062f\u0629"
+    ],
+    "timestamp": 1776207940.621375,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "9234166e-35f0-454f-9c1a-eefd2a1f8e0e",
+    "signal_key": "ABUK_WATCH_2026-04-15",
+    "ticker": "ABUK",
+    "name": "Abu Qir Fertilizers",
+    "sector": "Fertilizers & Chemicals",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "The growth in renewable energy may indirectly support agricultural productivity, benefiting fertilizer demand.",
+    "news_titles": [
+      "\u0645\u0635\u0631 \u062a\u0633\u062a\u062d\u0648\u0630 \u0639\u0644\u0649 10% \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u0649 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u062c\u062f\u062f\u0629 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0628\u0648\u0631\u0635\u0629",
+      "\u0645\u0635\u0631 \u062a\u0633\u062a\u062d\u0648\u0630 \u0639\u0644\u0649 10% \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u0649 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u062c\u062f\u062f\u0629"
+    ],
+    "timestamp": 1776207940.621375,
+    "date": "2026-04-15",
+    "price_at_signal": 82.11,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "896405fc-d12a-4fa4-8610-646927792228",
+    "signal_key": "CIB_WATCH_2026-04-15",
+    "ticker": "CIB",
+    "name": "Commercial International Bank (CIB)",
+    "sector": "Banking & Finance",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Improved economic indicators may lead to increased lending and banking activity, positively impacting CIB's performance.",
+    "news_titles": [
+      "\u062a\u0631\u0627\u062c\u0639 \u0639\u062c\u0632 \u0627\u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u062c\u0627\u0631\u0649 \u0625\u0644\u0649 9.5 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u0627\u0644\u0646\u0635\u0641 \u0627\u0644\u0623\u0648\u0644 2025/ 2026",
+      "\u0645\u0635\u0637\u0641\u0649 \u0628\u062f\u0631\u0629: \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u064a\u0648\u0627\u062c\u0647 \u0635\u062f\u0645\u0627\u062a \u062e\u0627\u0631\u062c\u064a\u0629 \u0645\u062a\u062a\u0627\u0644\u064a\u0629 \u0628\u0633\u0628\u0628 \u0623\u0632\u0645\u0627\u062a \u0627\u0644\u0645\u0646\u0637\u0642\u0629 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0645\u0627\u0644"
+    ],
+    "timestamp": 1776207940.621375,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "1fbc0bec-db6d-45a8-b669-809d29044142",
+    "signal_key": "ISPH_BUY_2026-04-15",
+    "ticker": "ISPH",
+    "name": "Ibnsina Pharma",
+    "sector": "Pharmaceuticals & Healthcare",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "Higher dollar rates increase import costs for raw materials, squeezing profit margins.",
+    "news_titles": [
+      "\u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0645\u0631\u0643\u0632\u0649 \u0627\u0644\u0645\u0635\u0631\u0649.. 52.44 \u062c\u0646\u064a\u0647 \u0644\u0644\u0634\u0631\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0628\u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 14 \u0623\u0628\u0631\u064a\u0644 2026 - \u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0623\u0647\u0631\u0627\u0645"
+    ],
+    "timestamp": 1776209407.699015,
+    "date": "2026-04-15",
+    "price_at_signal": 10.44,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "6876c474-bc87-4a27-809a-066cddb0bfe8",
+    "signal_key": "PHDC_BUY_2026-04-15",
+    "ticker": "PHDC",
+    "name": "Palm Hills Developments",
+    "sector": "Real Estate & Construction",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Increased investments in renewable energy may lead to more construction projects, benefiting Palm Hills.",
+    "news_titles": [
+      "\u0645\u0635\u0631 \u062a\u0633\u062a\u062d\u0648\u0630 \u0639\u0644\u0649 10% \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u0649 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u062c\u062f\u062f\u0629 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0628\u0648\u0631\u0635\u0629",
+      "\u0645\u0635\u0631 \u062a\u0633\u062a\u062d\u0648\u0630 \u0639\u0644\u0649 10% \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u0649 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u062c\u062f\u062f\u0629"
+    ],
+    "timestamp": 1776210353.55843,
+    "date": "2026-04-15",
+    "price_at_signal": 8.43,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "9705956f-be61-45d5-842d-4c8a85bf0e52",
+    "signal_key": "EGTS_BUY_2026-04-15",
+    "ticker": "EGTS",
+    "name": "Egyptian Tourism Resorts",
+    "sector": "Tourism & Hospitality",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Geopolitical tensions may reduce tourist inflow, impacting revenues.",
+    "news_titles": [
+      "\u0636\u0631\u0627\u0626\u0628 \u0627\u0644\u062d\u0631\u0628 \u062a\u0647\u062f\u062f \u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0634\u0631\u0643\u0627\u062a \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0641\u0649 \u0631\u0648\u0633\u064a\u0627",
+      "\u201c\u0628\u0648\u064a\u0646\u062c\u201d \u062a\u062a\u0641\u0648\u0642 \u0639\u0644\u0649 \u201c\u0625\u064a\u0631\u0628\u0627\u0635\u201d \u0628\u062a\u0633\u0644\u064a\u0645 143 \u0637\u0627\u0626\u0631\u0629 \u0641\u0649 \u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u0623\u0648\u0644"
+    ],
+    "timestamp": 1776211782.4033458,
+    "date": "2026-04-15",
+    "price_at_signal": 7.65,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "732b6043-f1d5-44da-aa0b-096825f569c3",
+    "signal_key": "ISPH_SELL_2026-04-15",
+    "ticker": "ISPH",
+    "name": "Ibnsina Pharma",
+    "sector": "Pharmaceuticals & Healthcare",
+    "action": "SELL",
+    "confidence": "HIGH",
+    "reason": "Higher dollar rates increase import costs for raw materials, squeezing margins.",
+    "news_titles": [
+      "\u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0639\u0644\u0649 \u0645\u062f\u0627\u0631 \u0627\u0644\u0633\u0627\u0639\u0629..52.47 \u062c\u0646\u064a\u0647 \u0633\u0639\u0631 \u0634\u0631\u0627\u0621 \u0627\u0644\u0623\u062e\u0636\u0631 \u0641\u0649 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0623\u0647\u0644\u0649 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0645\u0631\u0643\u0632\u0649 \u0627\u0644\u0645\u0635\u0631\u0649.. 52.44 \u062c\u0646\u064a\u0647 \u0644\u0644\u0634\u0631\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776211782.4033458,
+    "date": "2026-04-15",
+    "price_at_signal": 10.44,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "d5023fa8-8a7f-4da6-8274-f109824bf035",
+    "signal_key": "JUFO_WATCH_2026-04-15",
+    "ticker": "JUFO",
+    "name": "Juhayna Food Industries",
+    "sector": "Food & Beverages",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Rising dollar rates could increase import costs for raw materials, impacting margins.",
+    "news_titles": [
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0623\u0645\u0627\u0645 \u0627\u0644\u062c\u0646\u064a\u0647 \u0628\u0627\u0644\u0628\u0646\u0648\u0643 \u0645\u0639 \u0628\u062f\u0627\u064a\u0629 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621 15 \u0623\u0628\u0631\u064a\u0644 2026 - bnokonline.com",
+      "\u0635\u0627\u062f\u0631\u0627\u062a \u0627\u0644\u0635\u0646\u0627\u0639\u0627\u062a \u0627\u0644\u063a\u0630\u0627\u0626\u064a\u0629 \u062a\u062a\u062c\u0627\u0648\u0632 \u0645\u0644\u064a\u0627\u0631 \u062f\u0648\u0644\u0627\u0631 \u0623\u0648\u0644 \u0634\u0647\u0631\u064a\u0646 \u0645\u0646 2026"
+    ],
+    "timestamp": 1776212734.043413,
+    "date": "2026-04-15",
+    "price_at_signal": 26.6,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "70340424-65b8-4fee-a044-185fdd019d20",
+    "signal_key": "ESRS_WATCH_2026-04-15",
+    "ticker": "ESRS",
+    "name": "Ezz Steel",
+    "sector": "Steel & Manufacturing",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Higher dollar rates may lead to increased costs for imported raw materials, affecting profitability.",
+    "news_titles": [
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0623\u0645\u0627\u0645 \u0627\u0644\u062c\u0646\u064a\u0647 \u0628\u0627\u0644\u0628\u0646\u0648\u0643 \u0645\u0639 \u0628\u062f\u0627\u064a\u0629 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621 15 \u0623\u0628\u0631\u064a\u0644 2026 - bnokonline.com",
+      "Higher oil prices, regional uncertainty weigh on Egypt\u2019s 2026 investment outlook: IMF - Economy - Business - Ahram Online"
+    ],
+    "timestamp": 1776212734.043413,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "2cb79242-bbae-4a18-9439-5b191f4b7180",
+    "signal_key": "MNCO_SELL_2026-04-15",
+    "ticker": "MNCO",
+    "name": "Mining & Metallurgical Co",
+    "sector": "Mining & Metals",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "Higher commodity prices can enhance revenues for mining companies like MNCO.",
+    "news_titles": [
+      "\u0627\u0644\u0630\u0647\u0628 \u064a\u0631\u062a\u0641\u0639 \u0639\u0646\u062f \u0627\u0644\u062a\u0633\u0648\u064a\u0629 \u0648\u0627\u0644\u0641\u0636\u0629 \u062a\u0642\u0641\u0632 \u0628\u0623\u0643\u062b\u0631 \u0645\u0646 5%",
+      "Gold price testing $4,800 resistance as softer inflation, easing tensions weigh on U.S. dollar - KITCO"
+    ],
+    "timestamp": 1776212734.043413,
+    "date": "2026-04-15",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "ebba55db-1bc1-4861-9129-e0beb5591a43",
+    "signal_key": "CIEB_WATCH_2026-04-15",
+    "ticker": "CIEB",
+    "name": "Credit Agricole Egypt",
+    "sector": "Banking & Finance",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Increased investments may lead to higher lending opportunities for banks involved in financing renewable energy projects.",
+    "news_titles": [
+      "\u0645\u0635\u0631 \u062a\u0633\u062a\u062d\u0648\u0630 \u0639\u0644\u0649 10% \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u0649 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u062c\u062f\u062f\u0629 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0628\u0648\u0631\u0635\u0629",
+      "\u0628\u0642\u0631\u0627\u0628\u0629 70 \u0642\u0631\u0634\u0627\u064b.. \u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u062e\u062a\u0627\u0645 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776212734.043413,
+    "date": "2026-04-15",
+    "price_at_signal": 27.5,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "6c882636-402f-43d2-9cd4-2ca9e4269bc6",
+    "signal_key": "ADIB_SELL_2026-04-15",
+    "ticker": "ADIB",
+    "name": "Abu Dhabi Islamic Bank Egypt",
+    "sector": "Banking & Finance",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "Similar to CIB, higher dollar rates can affect loan repayments and increase financial strain on borrowers.",
+    "news_titles": [
+      "\u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0639\u0644\u0649 \u0645\u062f\u0627\u0631 \u0627\u0644\u0633\u0627\u0639\u0629..52.47 \u062c\u0646\u064a\u0647 \u0633\u0639\u0631 \u0634\u0631\u0627\u0621 \u0627\u0644\u0623\u062e\u0636\u0631 \u0641\u0649 \u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0623\u0647\u0644\u0649 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u0627\u0644\u0628\u0646\u0643 \u0627\u0644\u0645\u0631\u0643\u0632\u064a \u064a\u0642\u0628\u0644 \u0633\u064a\u0648\u0644\u0629 \u0628\u0642\u064a\u0645\u0629 82.7 \u0645\u0644\u064a\u0627\u0631 \u062c\u0646\u064a\u0647 \u0641\u064a \u0639\u0637\u0627\u0621 \u0648\u062f\u0627\u0626\u0639 \u0627\u0644\u0633\u0648\u0642 \u0627\u0644\u0645\u0641\u062a\u0648\u062d\u0629 - \u062c\u0631\u064a\u062f\u0629 \u062d\u0627\u0628\u064a"
+    ],
+    "timestamp": 1776214266.219887,
+    "date": "2026-04-15",
+    "price_at_signal": 43.55,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "615a33d3-1cd3-45a9-b70d-7c64bfd0a0bd",
+    "signal_key": "PHDC_SELL_2026-04-15",
+    "ticker": "PHDC",
+    "name": "Palm Hills Developments",
+    "sector": "Real Estate & Construction",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "Higher production costs could deter potential buyers, impacting sales negatively.",
+    "news_titles": [
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0623\u062e\u0634\u0627\u0628 \u0648\u0645\u0633\u062a\u0644\u0632\u0645\u0627\u062a \u0627\u0644\u0625\u0646\u062a\u0627\u062c \u062a\u062f\u0639\u0645\u0627\u0646 \u062a\u063a\u064a\u0631\u0627\u062a \u0627\u0644\u0623\u062b\u0627\u062b",
+      "\u0645\u0635\u0631 \u062a\u0633\u062a\u062d\u0648\u0630 \u0639\u0644\u0649 10% \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u0649 \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0645\u062a\u062c\u062f\u062f\u0629"
+    ],
+    "timestamp": 1776218998.918806,
+    "date": "2026-04-15",
+    "price_at_signal": 8.55,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "43122d42-95c2-4a82-ba9a-1e2e7f4159d2",
+    "signal_key": "COMI_BUY_2026-04-16",
+    "ticker": "COMI",
+    "name": "Commercial International Bank (CIB)",
+    "sector": "Banking & Finance",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "Increased investor confidence may lead to higher banking activity and lending.",
+    "news_titles": [
+      "\u00ab\u0627\u0644\u062a\u062e\u0637\u064a\u0637\u00bb: \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u0623\u0638\u0647\u0631 \u0635\u0644\u0627\u0628\u0629 \u0641\u0649 \u0638\u0644 \u062a\u0648\u062a\u0631\u0627\u062a \u0627\u0644\u0645\u0646\u0637\u0642\u0629 - \u0627\u0644\u0645\u0635\u0631\u064a \u0627\u0644\u064a\u0648\u0645",
+      "\u0627\u0642\u062a\u0635\u0627\u062f\u064a: \u062a\u0646\u0633\u064a\u0642 \u0642\u0648\u064a \u0628\u064a\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0648\u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u062e\u0627\u0635 \u0644\u062f\u0639\u0645 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631 \u0641\u064a \u0645\u0635\u0631 - \u0635\u062f\u0649 \u0627\u0644\u0628\u0644\u062f"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": 133.99,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "e026693a-e0e4-45df-9c08-091f8a16047e",
+    "signal_key": "TMGH_BUY_2026-04-16",
+    "ticker": "TMGH",
+    "name": "Talaat Moustafa Group",
+    "sector": "Real Estate & Construction",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "A stable economy may support real estate development, but caution is warranted due to external factors.",
+    "news_titles": [
+      "\u00ab\u0627\u0644\u062a\u062e\u0637\u064a\u0637\u00bb: \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u0623\u0638\u0647\u0631 \u0635\u0644\u0627\u0628\u0629 \u0641\u0649 \u0638\u0644 \u062a\u0648\u062a\u0631\u0627\u062a \u0627\u0644\u0645\u0646\u0637\u0642\u0629 - \u0627\u0644\u0645\u0635\u0631\u064a \u0627\u0644\u064a\u0648\u0645",
+      "\u201c\u0645\u0648\u0627\u0646\u0626 \u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0631\u201d \u062a\u0648\u0642\u0639 \u0639\u0642\u062f \u062a\u0648\u0631\u064a\u062f 4 \u0642\u0627\u0637\u0631\u0627\u062a \u06483 \u0644\u0646\u0634\u0627\u062a \u0645\u0639 \u201c\u0627\u0644\u062a\u0645\u0633\u0627\u062d \u0644\u0628\u0646\u0627\u0621 \u0627\u0644\u0633\u0641\u0646\u201d"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": 85.5,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "2ba0e367-326f-4373-9d10-e61d40d1efd2",
+    "signal_key": "EGTS_WATCH_2026-04-16",
+    "ticker": "EGTS",
+    "name": "Egyptian Tourism Resorts",
+    "sector": "Tourism & Hospitality",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Stability in the economy could enhance tourism prospects, benefiting hospitality stocks.",
+    "news_titles": [
+      "\u00ab\u0627\u0644\u062a\u062e\u0637\u064a\u0637\u00bb: \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a \u0623\u0638\u0647\u0631 \u0635\u0644\u0627\u0628\u0629 \u0641\u0649 \u0638\u0644 \u062a\u0648\u062a\u0631\u0627\u062a \u0627\u0644\u0645\u0646\u0637\u0642\u0629 - \u0627\u0644\u0645\u0635\u0631\u064a \u0627\u0644\u064a\u0648\u0645",
+      "\u0627\u0642\u062a\u0635\u0627\u062f\u064a: \u062a\u0646\u0633\u064a\u0642 \u0642\u0648\u064a \u0628\u064a\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0648\u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u062e\u0627\u0635 \u0644\u062f\u0639\u0645 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631 \u0641\u064a \u0645\u0635\u0631 - \u0635\u062f\u0649 \u0627\u0644\u0628\u0644\u062f"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": 9.18,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "017daf1c-2bb0-48f0-b5b1-4f8d3edc3af6",
+    "signal_key": "EMFD_BUY_2026-04-16",
+    "ticker": "EMFD",
+    "name": "Emaar Misr",
+    "sector": "Real Estate & Construction",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "Government support for investment will likely enhance real estate development opportunities.",
+    "news_titles": [
+      "\u0627\u0642\u062a\u0635\u0627\u062f\u064a: \u062a\u0646\u0633\u064a\u0642 \u0642\u0648\u064a \u0628\u064a\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0648\u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u062e\u0627\u0635 \u0644\u062f\u0639\u0645 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631 \u0641\u064a \u0645\u0635\u0631 - \u0635\u062f\u0649 \u0627\u0644\u0628\u0644\u062f",
+      "\u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u062a\u062a\u0644\u0642\u0649 \u0637\u0644\u0628 \u0642\u064a\u062f \u0623\u0633\u0647\u0645 \u00ab\u0627\u0644\u0646\u0635\u0631 \u0644\u0644\u0625\u0633\u0643\u0627\u0646\u00bb \u0628\u0627\u0644\u0633\u0648\u0642 \u0627\u0644\u0631\u0626\u064a\u0633\u0649 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0628\u0648\u0631\u0635\u0629"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": 9.35,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "a706fd26-0dc5-4ce2-9e45-248966a4d212",
+    "signal_key": "MNHD_BUY_2026-04-16",
+    "ticker": "MNHD",
+    "name": "Madinet Nasr Housing",
+    "sector": "Real Estate & Construction",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "The positive sentiment from new listings is likely to benefit established players like Madinet Nasr Housing.",
+    "news_titles": [
+      "\u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u062a\u062a\u0644\u0642\u0649 \u0637\u0644\u0628 \u0642\u064a\u062f \u0623\u0633\u0647\u0645 \u00ab\u0627\u0644\u0646\u0635\u0631 \u0644\u0644\u0625\u0633\u0643\u0627\u0646\u00bb \u0628\u0627\u0644\u0633\u0648\u0642 \u0627\u0644\u0631\u0626\u064a\u0633\u0649 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0628\u0648\u0631\u0635\u0629",
+      "\u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u062a\u062a\u0644\u0642\u0649 \u0637\u0644\u0628 \u0642\u064a\u062f \u0623\u0633\u0647\u0645 \u0627\u0644\u0646\u0635\u0631 \u0644\u0644\u0625\u0633\u0643\u0627\u0646 - \u0623\u0635\u0648\u0644 \u0645\u0635\u0631"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "792deb34-1746-4f44-890a-ed72237cbd18",
+    "signal_key": "CENT_BUY_2026-04-16",
+    "ticker": "CENT",
+    "name": "Centamin Egypt (Gold)",
+    "sector": "Mining & Metals",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "Rising gold prices typically enhance profitability for gold mining companies, making Centamin an attractive investment.",
+    "news_titles": [
+      "Gold Prices April 16: Peace Talks Boost Bullion Rally - Meyka",
+      "Gold Prices April 15: $4,846 Rally Amid Iran Peace Talks - Meyka"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "e4b8d325-0007-4ba9-bf1d-e9bc6ed06a1c",
+    "signal_key": "FWRY_WATCH_2026-04-16",
+    "ticker": "FWRY",
+    "name": "Fawry Banking Technology",
+    "sector": "Banking & Finance",
+    "action": "WATCH",
+    "confidence": "HIGH",
+    "reason": "As a key player in digital payments, Fawry stands to benefit from increased trust in data protection, driving higher transaction volumes.",
+    "news_titles": [
+      "\u0642\u0627\u0646\u0648\u0646 \u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0634\u062e\u0635\u064a\u0629 \u064a\u0642\u0648\u062f \u062a\u062d\u0648\u0644\u0627\u062a \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0631\u0642\u0645\u0649",
+      "\u00ab\u0625\u0631\u0627\u062f\u0629 \u0641\u0627\u064a\u0646\u0627\u0646\u0633\u00bb \u062a\u0633\u0639\u0649 \u0644\u0625\u0635\u062f\u0627\u0631 \u0633\u0646\u062f\u0627\u062a \u062a\u0648\u0631\u064a\u0642 \u0628\u0642\u064a\u0645\u0629 500 \u0645\u0644\u064a\u0648\u0646 \u062c\u0646\u064a\u0647 \u062e\u0644\u0627\u0644 2026"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": 19.1,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "597d29cc-c31e-4955-b4be-023be154ecd7",
+    "signal_key": "JUFO_BUY_2026-04-16",
+    "ticker": "JUFO",
+    "name": "Juhayna Food Industries",
+    "sector": "Food & Beverages",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Increased costs of imported ingredients may lead to reduced profitability.",
+    "news_titles": [
+      "\u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0645\u0642\u0627\u0628\u0644 \u0627\u0644\u062c\u0646\u064a\u0647 \u0641\u0649 \u0628\u0646\u0643 \u0645\u0635\u0631 \u064a\u0633\u062c\u0644 51.97 \u062c\u0646\u064a\u0647 \u0644\u0644\u0634\u0631\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0645\u0642\u0627\u0628\u0644 \u0627\u0644\u062c\u0646\u064a\u0647 \u0641\u0649 \u0646\u0647\u0627\u064a\u0629 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": 26.71,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "1e9efeae-ab8d-4f9a-9930-59cb188494b8",
+    "signal_key": "PHDC_WATCH_2026-04-16",
+    "ticker": "PHDC",
+    "name": "Palm Hills Developments",
+    "sector": "Real Estate & Construction",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "While not directly impacted, Palm Hills may see increased interest as part of the broader sector momentum.",
+    "news_titles": [
+      "\u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u062a\u062a\u0644\u0642\u0649 \u0637\u0644\u0628 \u0642\u064a\u062f \u0623\u0633\u0647\u0645 \u00ab\u0627\u0644\u0646\u0635\u0631 \u0644\u0644\u0625\u0633\u0643\u0627\u0646\u00bb \u0628\u0627\u0644\u0633\u0648\u0642 \u0627\u0644\u0631\u0626\u064a\u0633\u0649 - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0628\u0648\u0631\u0635\u0629",
+      "\u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u062a\u062a\u0644\u0642\u0649 \u0637\u0644\u0628 \u0642\u064a\u062f \u0623\u0633\u0647\u0645 \u0627\u0644\u0646\u0635\u0631 \u0644\u0644\u0625\u0633\u0643\u0627\u0646 - \u0623\u0635\u0648\u0644 \u0645\u0635\u0631"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": 8.55,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "bfab1b46-1c48-4510-a1ce-733f351d82be",
+    "signal_key": "SWDY_WATCH_2026-04-16",
+    "ticker": "SWDY",
+    "name": "El Sewedy Electric",
+    "sector": "Steel & Manufacturing",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Potential demand for electrical infrastructure related to new maritime projects may boost future orders.",
+    "news_titles": [
+      "\u201c\u0645\u0648\u0627\u0646\u0626 \u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0631\u201d \u062a\u0648\u0642\u0639 \u0639\u0642\u062f \u062a\u0648\u0631\u064a\u062f 4 \u0642\u0627\u0637\u0631\u0627\u062a \u06483 \u0644\u0646\u0634\u0627\u062a \u0645\u0639 \u201c\u0627\u0644\u062a\u0645\u0633\u0627\u062d \u0644\u0628\u0646\u0627\u0621 \u0627\u0644\u0633\u0641\u0646\u201d",
+      "\u00ab\u062e\u0631\u062f\u0629 \u0627\u0644\u0623\u0644\u0648\u0645\u0646\u064a\u0648\u0645\u00bb \u062a\u0647\u0632\u0645 \u0627\u0644\u062e\u0627\u0645 \u0648\u0627\u0644\u0645\u0635\u0627\u0646\u0639 \u062a\u0644\u062c\u0623 \u0625\u0644\u0649 \u00ab\u0627\u0644\u062a\u0635\u0646\u064a\u0639 \u0644\u0644\u063a\u064a\u0631\u00bb"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": 81.45,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "ef9a7d8c-e99e-45e8-9069-af261a2c758b",
+    "signal_key": "AMOC_WATCH_2026-04-16",
+    "ticker": "AMOC",
+    "name": "Alexandria Mineral Oils Company",
+    "sector": "Oil & Gas",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Potential indirect benefits from increased regional energy projects may support AMOC's market position.",
+    "news_titles": [
+      "\u201c\u0641\u062c\u0631\u201d \u0627\u0644\u0623\u0631\u062f\u0646\u064a\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u062a\u0648\u0642\u0639 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0644\u062a\u0632\u0648\u064a\u062f \u0645\u0634\u0631\u0648\u0639 IPP7 \u0628\u0627\u0644\u063a\u0627\u0632 \u0641\u064a \u0627\u0644\u0623\u0631\u062f\u0646 \u0628\u0642\u062f\u0631\u0629 700 \u0645\u064a\u062c\u0627\u0648\u0627\u062a",
+      "\u0623\u0643\u062b\u0631 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0631\u062a\u0641\u0627\u0639\u064b\u0627 \u0648\u0627\u0646\u062e\u0641\u0627\u0636\u064b\u0627 \u0628\u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0641\u064a \u062c\u0644\u0633\u0629 15 \u0641\u0628\u0631\u0627\u064a\u0631 2026 - \u0645\u062c\u0644\u0629 \u0627\u0644\u0628\u0648\u0635\u0644\u0629 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a\u0629"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": 8.25,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "fe2b1ce6-0ca4-4bce-94dc-33b1720e548c",
+    "signal_key": "SCFN_WATCH_2026-04-16",
+    "ticker": "SCFN",
+    "name": "Suez Canal Bank",
+    "sector": "Suez Canal & Logistics",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Potential disruptions in trade routes due to regional instability may impact Suez Canal revenues.",
+    "news_titles": [
+      "\u0645\u0646\u0649 \u0648\u0647\u0628\u0629 \u062a\u0643\u062a\u0628: \u062d\u062a\u0649 \u0644\u0627 \u064a\u0639\u0648\u062f \u0646\u062a\u0646\u064a\u0627\u0647\u0648 \u0625\u0644\u0649 \u062c\u0646\u0648\u0628 \u0644\u0628\u0646\u0627\u0646",
+      "Gold Price Edges Higher As Crucial US-Iran Deal Hopes Pressure US Dollar, but Analysts Warn of Li... - Binance"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "2ea7c438-a1bb-433a-9a55-bca6727d2e44",
+    "signal_key": "ESRS_SELL_2026-04-16",
+    "ticker": "ESRS",
+    "name": "Ezz Steel",
+    "sector": "Steel & Manufacturing",
+    "action": "SELL",
+    "confidence": "HIGH",
+    "reason": "Increased aluminum prices will raise production costs, squeezing margins for Ezz Steel.",
+    "news_titles": [
+      "\u00ab\u062e\u0631\u062f\u0629 \u0627\u0644\u0623\u0644\u0648\u0645\u0646\u064a\u0648\u0645\u00bb \u062a\u0647\u0632\u0645 \u0627\u0644\u062e\u0627\u0645 \u0648\u0627\u0644\u0645\u0635\u0627\u0646\u0639 \u062a\u0644\u062c\u0623 \u0625\u0644\u0649 \u00ab\u0627\u0644\u062a\u0635\u0646\u064a\u0639 \u0644\u0644\u063a\u064a\u0631\u00bb",
+      "\u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0645\u0642\u0627\u0628\u0644 \u0627\u0644\u062c\u0646\u064a\u0647 \u0641\u0649 \u0628\u0646\u0643 \u0645\u0635\u0631 \u064a\u0633\u062c\u0644 51.97 \u062c\u0646\u064a\u0647 \u0644\u0644\u0634\u0631\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "fe45926c-d9a1-44dd-8e6c-99ed0de03389",
+    "signal_key": "ISPH_BUY_2026-04-16",
+    "ticker": "ISPH",
+    "name": "Ibnsina Pharma",
+    "sector": "Pharmaceuticals & Healthcare",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Pharmaceutical sector remains stable, but external factors may influence costs.",
+    "news_titles": [
+      "\u0623\u0643\u062b\u0631 \u0627\u0644\u0623\u0633\u0647\u0645 \u0627\u0631\u062a\u0641\u0627\u0639\u064b\u0627 \u0648\u0627\u0646\u062e\u0641\u0627\u0636\u064b\u0627 \u0628\u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0641\u064a \u062c\u0644\u0633\u0629 15 \u0641\u0628\u0631\u0627\u064a\u0631 2026 - \u0645\u062c\u0644\u0629 \u0627\u0644\u0628\u0648\u0635\u0644\u0629 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a\u0629",
+      "\u062e\u0633\u0627\u0626\u0631\u0647 \u062a\u0642\u062a\u0631\u0628 \u0645\u0646 3 \u062c\u0646\u064a\u0647\u0627\u062a.. \u062a\u0631\u0627\u062c\u0639 \u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0623\u0645\u0627\u0645 \u0627\u0644\u062c\u0646\u064a\u0647 \u0627\u0644\u0645\u0635\u0631\u064a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621 |\u0639\u0627\u062c\u0644 - \u0627\u0644\u0648\u0637\u0646"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": 10.36,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "e5509060-53e2-4028-b456-7c4c2b715c02",
+    "signal_key": "OCDI_BUY_2026-04-16",
+    "ticker": "OCDI",
+    "name": "Orascom Development Egypt",
+    "sector": "Real Estate & Construction",
+    "action": "BUY",
+    "confidence": "MEDIUM",
+    "reason": "Increased costs for imported materials may squeeze margins in construction projects.",
+    "news_titles": [
+      "51.87 \u062c\u0646\u064a\u0647 \u0633\u0639\u0631 \u0634\u0631\u0627\u0621 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u0628\u0646\u0643 \u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639",
+      "\u0648\u0632\u064a\u0631 \u0627\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631: \u0627\u0644\u0625\u0635\u0644\u0627\u062d\u0627\u062a \u0627\u0644\u0634\u0627\u0645\u0644\u0629 \u0639\u0632\u0632\u062a \u0635\u0644\u0627\u0628\u0629 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0627\u0644\u0645\u0635\u0631\u064a.. \u0648\u0644\u062f\u064a\u0646\u0627 \u0641\u0631\u0635 \u0627\u0633\u062a\u062b\u0645\u0627\u0631\u064a\u0629 \u062a\u0634\u0645\u0644 \u062a\u0637\u0648\u064a\u0631 \u0648\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0637\u0627\u0631\u0627\u062a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 - \u0635\u062f\u0649 \u0627\u0644\u0628\u0644\u062f"
+    ],
+    "timestamp": 1776290665.822338,
+    "date": "2026-04-16",
+    "price_at_signal": 20.15,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "14de967f-2bf3-4925-a36d-47a016d46ff0",
+    "signal_key": "JUFO_WATCH_2026-04-16",
+    "ticker": "JUFO",
+    "name": "Juhayna Food Industries",
+    "sector": "Food & Beverages",
+    "action": "WATCH",
+    "confidence": "HIGH",
+    "reason": "Lower import costs for raw materials could boost profit margins.",
+    "news_titles": [
+      "\u062e\u0628\u064a\u0631: 5 \u0639\u0648\u0627\u0645\u0644 \u062a\u0642\u0641 \u0648\u0631\u0627\u0621 \u062a\u0631\u0627\u062c\u0639 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 - Masrawy",
+      "\u0648\u0632\u064a\u0631 \u0627\u0644\u0645\u0627\u0644\u064a\u0629:\u00a0\u0627\u0644\u0623\u0648\u0644\u0648\u064a\u0629 \u0644\u062a\u0648\u0641\u064a\u0631 \u0627\u0644\u0633\u0644\u0639 \u0648\u0627\u0644\u062e\u062f\u0645\u0627\u062a \u0648\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0648\u062a\u064a\u0631\u0629 \u0627\u0644\u0646\u0634\u0627\u0637 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a"
+    ],
+    "timestamp": 1776290767.2846909,
+    "date": "2026-04-16",
+    "price_at_signal": 26.71,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "e1eee23f-5bdd-4ac7-a02a-512e3611db11",
+    "signal_key": "AMOC_SELL_2026-04-16",
+    "ticker": "AMOC",
+    "name": "Alexandria Mineral Oils Company",
+    "sector": "Oil & Gas",
+    "action": "SELL",
+    "confidence": "MEDIUM",
+    "reason": "Potential for increased activity in the oil and gas sector may benefit AMOC in the long term.",
+    "news_titles": [
+      "\u201c\u0641\u062c\u0631\u201d \u0627\u0644\u0623\u0631\u062f\u0646\u064a\u0629 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u062a\u0648\u0642\u0639 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0644\u062a\u0632\u0648\u064a\u062f \u0645\u0634\u0631\u0648\u0639 IPP7 \u0628\u0627\u0644\u063a\u0627\u0632 \u0641\u064a \u0627\u0644\u0623\u0631\u062f\u0646 \u0628\u0642\u062f\u0631\u0629 700 \u0645\u064a\u062c\u0627\u0648\u0627\u062a",
+      "\u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621 15-4-2026 \u0623\u0645\u0627\u0645 \u0627\u0644\u062c\u0646\u064a\u0647 \u0641\u064a \u062e\u062a\u0627\u0645 \u0627\u0644\u062a\u0639\u0627\u0645\u0644\u0627\u062a - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0645\u0627\u0644"
+    ],
+    "timestamp": 1776290767.2846909,
+    "date": "2026-04-16",
+    "price_at_signal": 8.25,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "fa62cb06-ca94-424b-a039-8affe07da6c9",
+    "signal_key": "DOMTY_BUY_2026-04-16",
+    "ticker": "DOMTY",
+    "name": "Arab Dairy Products (Domty)",
+    "sector": "Food & Beverages",
+    "action": "BUY",
+    "confidence": "HIGH",
+    "reason": "A stronger pound may reduce costs for imported dairy ingredients, enhancing profitability.",
+    "news_titles": [
+      "\u062e\u0628\u064a\u0631: 5 \u0639\u0648\u0627\u0645\u0644 \u062a\u0642\u0641 \u0648\u0631\u0627\u0621 \u062a\u0631\u0627\u062c\u0639 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 - Masrawy",
+      "\u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0645\u0642\u0627\u0628\u0644 \u0627\u0644\u062c\u0646\u064a\u0647 \u0641\u0649 \u0628\u0646\u0643 \u0645\u0635\u0631 \u064a\u0633\u062c\u0644 51.97 \u062c\u0646\u064a\u0647 \u0644\u0644\u0634\u0631\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776290767.2846909,
+    "date": "2026-04-16",
+    "price_at_signal": null,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "90d4b651-2639-46bb-822f-458308700cf9",
+    "signal_key": "MICH_WATCH_2026-04-16",
+    "ticker": "MICH",
+    "name": "Misr Chemical Industries",
+    "sector": "Fertilizers & Chemicals",
+    "action": "WATCH",
+    "confidence": "MEDIUM",
+    "reason": "Increased costs of imported raw materials may pressure margins.",
+    "news_titles": [
+      "\u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0623\u0645\u0627\u0645 \u0627\u0644\u062c\u0646\u064a\u0647 \u0628\u0627\u0644\u0628\u0646\u0648\u0643 \u0645\u0639 \u0628\u062f\u0627\u064a\u0629 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062e\u0645\u064a\u0633 16 \u0623\u0628\u0631\u064a\u0644 2026 - bnokonline.com",
+      "51.87 \u062c\u0646\u064a\u0647 \u0633\u0639\u0631 \u0634\u0631\u0627\u0621 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0641\u0649 \u0628\u0646\u0643 \u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776290767.2846909,
+    "date": "2026-04-16",
+    "price_at_signal": 35.85,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  },
+  {
+    "id": "36f42003-d4c6-4a73-a6dd-bacba51a802b",
+    "signal_key": "ISPH_SELL_2026-04-16",
+    "ticker": "ISPH",
+    "name": "Ibnsina Pharma",
+    "sector": "Pharmaceuticals & Healthcare",
+    "action": "SELL",
+    "confidence": "HIGH",
+    "reason": "Rising dollar costs may lead to increased prices for imported pharmaceutical products.",
+    "news_titles": [
+      "\u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621 15-4-2026 \u0623\u0645\u0627\u0645 \u0627\u0644\u062c\u0646\u064a\u0647 \u0641\u064a \u062e\u062a\u0627\u0645 \u0627\u0644\u062a\u0639\u0627\u0645\u0644\u0627\u062a - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0645\u0627\u0644",
+      "\u0633\u0639\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0645\u0642\u0627\u0628\u0644 \u0627\u0644\u062c\u0646\u064a\u0647 \u062e\u0644\u0627\u0644 \u0645\u0646\u062a\u0635\u0641 \u062a\u0639\u0627\u0645\u0644\u0627\u062a \u0627\u0644\u064a\u0648\u0645 - \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0633\u0627\u0628\u0639"
+    ],
+    "timestamp": 1776290767.2846909,
+    "date": "2026-04-16",
+    "price_at_signal": 10.36,
+    "price_24h": null,
+    "price_48h": null,
+    "outcome": "PENDING"
+  }
+]
