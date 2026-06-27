@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/React-dashboard-61DAFB?logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 
-**▶️ Live demo:** _deploying — see [Getting Started](#getting-started) for now_
+**▶️ Live demo:** _paste your URL here after deploy_ · 🚀 **Deploy guide:** [DEPLOY.md](./DEPLOY.md) (Render + Vercel, free)
 
 ---
 
